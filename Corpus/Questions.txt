@@ -26,3 +26,40 @@ When did Nors encampments evolve into destructive incursions?
 What treaty was established in the 9th century?
 Who established a treaty with King Charles the third of France?
 What did the French promises to protect Rollo and his men from?
+What branch of theoretical computer science deals with broadly classifying computational problems by difficulty and class of relationship?
+By what main attribute are computational problems classified utilizing computational complexity theory?
+What is the term for a task that generally lends itself to being solved by a computer?
+What is computational complexity principle?
+What branch of theoretical computer class deals with broadly classifying computational problems by difficulty and class of relationship?
+What is understood to be a task that is in principle not amendable to being solved by a computer?
+What cannot be solved by mechanical application of mathematical steps?
+What is a manual application of mathematical steps?
+What measure of a computational problem broadly defines the inherent difficulty of the solution?
+What method is used to intuitively assess or quantify the amount of resources required to solve a computational problem?
+What are two basic primary resources used to guage complexity?
+What unit is measured to determine circuit complexity?
+What practical role does defining the complexity of problems play in everyday computing?
+What measure of computational problem broadly defines the inherent simplicity of the solution?
+What method is not used to intuitively assess or quantify the amount of resources required to solve a computational problem??
+What are three basic primary resources used to gauge complexity?
+What unit is measured to determine circuit simplicity?
+What number is used in perpendicular computing?
+What two fields of theoretical computer science closely mirror computational complexity theory?
+What field of computer science analyzes the resource requirements of a specific algorithm isolated unto itself within a given problem?
+What field of computer science analyzes all possible algorithms in aggregate to determine the resource requirements needed to solve to a given problem?
+What field of computer science is primarily concerned with determining the likelihood of whether or not a problem can ultimately be solved using algorithms?
+What are two fields of theoretical computer science that closely mirror computational simplicity theory?
+What is not the key distinction between analysis of algorithms and computational complexity theory?
+What is the process of analyzing the amount of resources needed by a particular algorithm to solve a hypothesis?
+What is the process that asks a more specific question about all possible algorithms that could not be used to solve the same problem?
+What process classifies problems that can and cannot be solved with approximately unlimited resources?
+What is the name given to the input string of a computational problem?
+In computational complexity theory, what is the term given to describe the baseline abstract question needing to be solved?
+Is a problem instance typically characterized as abstract or concrete?
+What is another name for any given measure of input associated with a problem?
+What is the general term used to describe the output to any given input in a problem instance?
+What can be viewed as a limited collection of instances together with a solution for every instance?
+What is the name given to the input string of a computational solution?
+What term refers to the concrete question to be solved?
+What is the output corresponding to the given question?
+What is a particular measure input associated with the a theory?
