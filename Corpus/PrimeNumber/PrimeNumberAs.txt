@@ -1,0 +1,40 @@
+itself|itself|itself|itself|itself
+composite number|composite number|composite number|primes
+The fundamental theorem of arithmetic|fundamental theorem of arithmetic|arithmetic|fundamental theorem of arithmetic|fundamental theorem of arithmetic
+a product of primes|product of primes that is unique up to ordering|primes|primes|primes that is unique up to ordering
+because one can include arbitrarily many instances of 1 in any factorization|one can include arbitrarily many instances of 1 in any factorization|can include arbitrarily many instances of 1 in any factorization|one can include arbitrarily many instances of 1 in any factorization|because one can include arbitrarily many instances of 1 in any factorization
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+primality|primality|primality|primality|primality
+trial division|trial division|trial division|trial division|trial division
+the Miller–Rabin primality test|Miller–Rabin primality test|Miller–Rabin primality test|Miller–Rabin primality test|Miller–Rabin primality test
+the AKS primality test|AKS primality test|AKS primality test|AKS primality test|AKS primality test
+22,338,618 decimal digits|22,338,618|22,338,618|22,338,618|22,338,618
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+infinitely many|infinitely|infinitely many|infinitely|infinitely many
+Euclid|Euclid|Euclid|Euclid|Euclid
+the statistical behaviour|distribution|statistical|statistical|statistical
+the prime number theorem|prime number theorem|prime number|prime number theorem|prime number theorem
+at the end of the 19th century|end of the 19th century|end of the 19th century|end of the 19th century|end of the 19th century
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+Goldbach's conjecture|Goldbach's conjecture|Goldbach's conjecture|Goldbach's conjecture|Goldbach's conjecture
+the twin prime conjecture|twin prime conjecture|twin prime conjecture|twin prime conjecture|twin prime conjecture
+algebraic aspects|algebraic|algebraic|algebraic|algebraic aspects
+public-key cryptography|public-key cryptography|public-key cryptography|cryptography|public-key cryptography
+prime ideals|prime elements|prime elements|prime elements
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer

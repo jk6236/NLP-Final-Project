@@ -1,0 +1,104 @@
+What did Paul Baran develop 
+What did Distributed Adaptive Message Block Switching do
+What did this concept contradict 
+What is Donald Davies credited with 
+What did Paul Baran develop in the late 1950's
+What was the goal of the system 
+Who is credited with the modern name for this system 
+In the late 1950s what concept was developed?
+What did the concept hope to achieve?
+How much funding did the RAND Corporation receive?
+What was the independent work of Donald Davis?
+What was the Bell System?
+What did the US Department of Defense gain from their funding to RAND Corporation?
+Who credited Paul Baran for his development? 
+The Bell System was created by who?
+Packet Switching had a goal of creating what? 
+Who created ARPANET? 
+Did Paul Baran develop Distributed Adaptive Message Block Switching with the goal of monetizing it?
+Did Paul Baran has assistance from anyone when he developed the concept?
+Was development of this concept originally considered "classified" or a secret?
+Was this concept originally intended to be an application only meant for use by the military?
+Why was this concept generally unpopular prior to Donald Davies completing his work?
+What did Donald Davies develop in the late 1950s?
+What did the RAND Corporation do?
+What organization did Paul Baran work with in the United Kingdom?
+Who created ARPANET in the United States?
+What fortified this concept?
+Packet Switching contrast with what other principal 
+What is circuit switching characterized by
+How is packet switching charecterized
+What does Packet switching contrast with 
+How is circuit switching allocated 
+How is circuit switching charecterized 
+How is packet switching characterized 
+What is Circuit Switching? 
+How much bandwidth is dedicated for each communication session?
+How is information charged for packet switching?
+How is information charged differently for Circuit Switching?
+What is latency between nodes?
+What is packet switching?
+Packet switching communication has what kind of bit rate? 
+How is Packet Switching allocated? 
+Packet switching speed is determined by what factor? 
+Packet switching uses what kind of network? 
+Are the sizes of packets variable?  
+If packet sizes are variable, then are they always charged at the same rate per packet?
+What is the minimum amount, if any, of data to make up a packet?
+Can a packet be sent empty?  If so, is it billable?
+Circuit switching charges a fee for transferring what kind of information?
+Does packet switching charge a fee when no data is transferred?
+What does packet switching pre-allocate?
+What is special about communication sessions with packet switching?
+In cases of shared physical medium how are they delivered 
+How is packet mode communication implemented 
+How are packets normally forwarded
+In cases with shared medium how is it delivered 
+What kind of communication can be implemented?
+Packets can be delivered via what route? 
+What type of medium is a 10BASE5 radio?
+What are intermediate forwarding nodes?
+How are packets delivered differently?
+In cases of non shared medium how are packets delivered? 
+In cases of non shared physical medium how are packets delivered? 
+How are packets irregularly forwarded? 
+When are packet mode communications not implemented? 
+How are packet mode communications dissolved? 
+How many access points are in a "multiple access scheme"?
+Do certain packets take priority over others if sent at the exact same time?
+Can a packet be lost and if so, then where does it go?
+What exactly is a "leaky bucket" in terms of this matter?
+Does a packet of data have physical mass?
+If there is no shared physical medium, how are the packets delivered?
+How are the packets forwarded synchronously?
+If there is no radio or 10BASE5, how are the packets delivered?
+What is the only way to forward packets?
+What isn't a guaranteed quality of service?
+What did Baran develop during research at RAND 
+What was developed for the Air Force 
+What 3 things does the Air Force work key on 
+How are Air force messages delivered 
+What concept was developed by Baran while researching at RAND
+What was report P-2626
+What  things did the network concentrate on 
+What delivery message was used 
+What was developed in the summer of 1961?
+What ideas did the report in 1964 state? 
+How many focuses where there in report P-2626?
+Who owned RAND Company?
+How was forward switching achieved?
+Who presented briefing B-265 to the US Air Force?
+What did RM 3420 report? 
+What was the US Air Force interested in? 
+How were messages delivered before implementation? 
+What was the Air Force not interested in for their message system? 
+Did Baran develop this "only" for use by the Air Force?
+Did the RAND corporation retain any of the research?
+If this was developed for the Air Force, then does the Air Force still technically own the Intellectual Property?
+Assuming the Air Force paid for the development of the concept, then would the Air Force be entitled to a royalty fee for every packet sent?
+Was the RAND corporation prohibited from disclosing the research to anyone else except for the Air Force?
+What was developed for the RAND Corporation?
+How does the corporation deliver these messages?
+What was Report R-2626?
+What concept did Baran research for the US Air Force?
+How did RAND use this network?

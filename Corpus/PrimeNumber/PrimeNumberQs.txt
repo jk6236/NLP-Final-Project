@@ -1,0 +1,40 @@
+What is the only divisor besides 1 that a prime number can have?
+What are numbers greater than 1 that can be divided by 3 or more numbers called?
+What theorem defines the main role of primes in number theory?
+Any number larger than 1 can be represented as a product of what?
+Why must one be excluded in order to preserve the uniqueness of the fundamental theorem?
+What is the only divisor besides 1 that a product can have?
+What are numbers greater than 1 that can be divided by 6 or more numbers called?
+What can any number larger than 6 can be represented as?
+A number larger than -3 can be represented as a product of what?
+Why must -1 be excluded in order to preserve the uniqueness of the fundamental theorem?
+What is the name of the property that designates a number as being prime or not?
+What is the name of the process which confirms the primality of a number n?
+What is the name of one algorithm useful for conveniently testing the primality of large numbers? 
+What is the name of another algorithm useful for conveniently testing the primality of large numbers? 
+As of January 2016 how many digits does the largest known prime consist of?
+What is the name of the property that designates a number as being efficient or not?
+What is the name of the process which confirms the primality of a decimal digits?
+What is the name of one algorithm useful for conveniently testing the primality of decimal digits?
+What is the name of another algorithm useful for conveniently testing the primality of decimal digits?
+As of January 2016 how many primalities does the largest known prime consists of?
+How many prime numbers exist?
+Who established the amount of prime numbers in existence?
+What type of behavior in primes is it possible to determine?
+What theorem states that the probability that a number n is prime is inversely proportional to its logarithm?
+When was the prime number theorem proven?
+How many chosen numbers exist?
+Who established the amount of chosen numbers in existence?
+What type of behavior in chosens is it possible to determine?
+What theorem states that the probability that a number n is prime is inversely proportional to its direction?
+When was the random number theorem proven?
+What is the name of the supposition that any number larger than 2 can be represented as the sum of two primes?
+What is the name of the supposition that there are infinite pairs of primes whose difference is 2?
+Besides the analytic property of numbers, what other property of numbers does number theory focus on?
+What is the application of prime numbers used in information technology which utilizes the fact that factoring very large prime numbers is very challenging?
+What is the name of one algebraic generalization prime numbers have inspired?
+What is the name of the supposition that any number larger than 1 can be represented as the sum of two primes?
+What is the name of the supposition that there are infinite pairs of primes whose difference is prime?
+Besides the analytic property of Goldbach's conjecture, what other property of Goldbach's conjecture does number theory focus on?
+What is the application of prime numbers used in information technology which utilizes the fact that factoring very large prime numbers is expressed in the sum of two primes?
+What is the name of one algebraic generalization Goldbach's conjecture has inspired?

@@ -1,0 +1,104 @@
+Paul Baran developed the concept Distributed Adaptive Message Block Switching|the concept Distributed Adaptive Message Block Switching|Distributed Adaptive Message Block Switching
+provide a fault-tolerant, efficient routing method for telecommunication messages|provide a fault-tolerant, efficient routing method for telecommunication messages|fault-tolerant, efficient routing method
+This concept contrasted and contradicted the theretofore established principles of pre-allocation of network bandwidth|theretofore established principles of pre-allocation of network bandwidth|principles of pre-allocation of network bandwidth
+Davies is credited with coining the modern name packet switching and inspiring numerous packet switching networks in Europe|coining the modern name packet switching and inspiring numerous packet switching networks|coining the modern name packet switching
+the concept Distributed Adaptive Message Block Switching|the concept Distributed Adaptive Message Block Switching|Distributed Adaptive Message Block Switching
+to provide a fault-tolerant, efficient routing method for telecommunication messages|provide a fault-tolerant, efficient routing method for telecommunication messages
+Davies is credited with coining the modern name packet switching and inspiring numerous packet switching networks in Europe|Donald Davies|Donald Davies
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+circuit switching|circuit switching|circuit switching
+circuit switching is characterized by a fee per unit of connection time|a method which pre-allocates dedicated network bandwidth specifically for each communication session|fee per unit of connection time
+by a fee per unit of information transmitted|a fee per unit of information transmitted|fee per unit of information transmitted
+circuit switching|circuit switching|circuit switching
+a method which pre-allocates dedicated network bandwidth|pre-allocates dedicated network bandwidth specifically for each communication session|pre-allocates
+by a fee per unit of connection time, even when no data is transferred|a fee per unit of connection time|fee per unit of connection time
+by a fee per unit of information transmitted, such as characters, packets, or messages|a fee per unit of information transmitted|fee per unit of information transmitted
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+the packets may be delivered according to a multiple access scheme|according to a multiple access scheme|multiple access scheme
+with or without intermediate forwarding nodes|with or without intermediate forwarding nodes|with or without intermediate forwarding nodes
+by intermediate network nodes asynchronously using first-in, first-out buffering, but may be forwarded according to some scheduling discipline for fair queuing|intermediate network nodes asynchronously using first-in, first-out buffering|asynchronously
+the packets may be delivered according to a multiple access scheme|according to a multiple access scheme|multiple access scheme
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+the concept of distributed adaptive message block switching|the concept of distributed adaptive message block switching|concept of distributed adaptive message block switching
+survivable communications networks|the concept of distributed adaptive message block switching|survivable communications networks
+use of a decentralized network with multiple paths between any two points, dividing user messages into message blocks|ideas
+delivery of these messages by store and forward switching|decentralized network with multiple paths between any two points|store and forward switching
+distributed adaptive message block switching|distributed adaptive message block switching|distributed adaptive message block switching
+a general architecture for a large-scale, distributed, survivable communications network|a general architecture for a large-scale, distributed, survivable communications network|briefing B-265
+use of a decentralized network with multiple paths between any two points, dividing user messages into message blocks, later called packets|large-scale, distributed, survivable communications network|multiple paths between any two points
+by store and forward switching|packets|store and forward switching
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer
+No Answer

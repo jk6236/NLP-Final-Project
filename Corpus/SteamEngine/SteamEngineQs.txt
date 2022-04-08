@@ -1,0 +1,40 @@
+Along with geothermal and nuclear, what is a notable non-combustion heat source?
+What ideal thermodynamic cycle analyzes the process by which steam engines work?
+In the Rankine cycle, what does water turn into when heated?
+At what pressure is water heated in the Rankine cycle?
+What types of engines are steam engines?
+Along with geothermal and nuclear, what is a notable combustion heat source?
+What ideal thermodynamic cycle analyzes the process by which solar engines work?
+In the Rankine cycle, what does nuclear power turn into when heated?
+At what pressure is nuclear power heated in the Rankine cycle?
+What types of engines are solar engines?
+What was the first true engine that was commercially successful?
+Who was the inventor of the atmospheric engine?
+About what year was the atmospheric engine invented?
+What was invented by Savery?
+Who conceptualized the piston?
+What was the first true vacuum that was commercially successful?
+Who was the inventor of the vacuum?
+About what year was the vacuum engine developed?
+What was invented in a storage reservoir?
+Who conceptualized the vacuum?
+In what country was a full-scale working railway steam locomotive first invented?
+On what date did the first railway trip in the world occur?
+Where did the world's first railway journey terminate?
+In what constituent country of the United Kingdom is Merthyr Tydfil located?
+In what geographical portion of Wales is Abercynon located?
+In what country was a full-scale working railway steam centre first invented?
+On what date did the first railway trip in England occur?
+Where did the England's first railway journey terminate?
+In what constituent country of the United Kingdom is Trevithick located? 
+In what geographical portion of England is Abercynon located?
+What device is used to recycle the boiler water in most steam engines?
+What types of pumps are typically used in industrial boilers?
+In what decade were injectors widely used in steam engines?
+What is a notable application of injectors today?
+What are injectors used to supply?
+What device is used to recycle the boiler water in most jet engines?
+What types of pumps are typically used in jet engines?
+In what decade were injectors widely used in jet engines?
+What is a notable application of jet engines today?
+What are jet engines used to supply?
