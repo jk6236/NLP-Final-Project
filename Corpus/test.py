@@ -17,15 +17,22 @@ def checkline():
     #print(answers_list)
     #print(sample_output_list)
     count = 0
+    correct = 0
     for x in answers_list:
         result = -1
         base_word = answers_list[count]
         result = base_word.find(sample_output_list[count])
         if(result != -1):
-            print(result)
+            count = count + 1
         else:
-            print(result)
-        count = count + 1
-    
+            correct = correct + 1
+            count = count + 1
+
+    precision = count/count
+    recall = correct/count
+    fscore = (2/(1/precision + 1/recall))
+    print("precision: ", precision)
+    print("recall: ", recall)
+    print("fscore: ", fscore) 
 
 checkline()
