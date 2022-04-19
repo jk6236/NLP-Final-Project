@@ -1,4 +1,6 @@
 import sys
+sys.append("..")
+from debug import Sample_Model_Output.txt
 import re
 import os
 
@@ -23,11 +25,7 @@ def checkline():
             correct = correct + 1
             count = count + 1
 
-    precision = count/count
-    recall = correct/count
-    fscore = (2/(1/precision + 1/recall))
-    print("precision: ", precision)
-    print("recall: ", recall)
-    print("fscore: ", fscore) 
+    accuracy = correct/count
+    print("Accuracy: ", accuracy)
 
 checkline()

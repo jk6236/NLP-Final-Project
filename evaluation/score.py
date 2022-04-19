@@ -1,20 +1,33 @@
 import sys
 import re
 import os
-import random
-import filecmp
-import difflib
 
 def checkline():
-    with open('Answers.txt') as file_1:
-        file_1_text = file_1.readlines()
-  
-    with open('Sample_Model_Output.txt') as file_2:
-        file_2_text = file_2.readlines()
-  
-    # Find and print the diff:
-    for line in difflib.unified_diff(
-        file_1_text, file_2_text, fromfile='Answers.txt', 
-        tofile='Sample_Model_Output.txt', lineterm=''):
-        print(line)
+    answers_list = []
+    sample_output_list = []
+    with open(sys.argv[1]) as f1:
+        for line in f1:
+            answers_list.append(line)
+    with open(sys.argv[2]) as f2:
+        for line in f2:
+            sample_output_list.append(line)
+    count = 0
+    correct = 0
+    for x in answers_list:
+        result = -1
+        base_word = answers_list[count]
+        result = base_word.find(sample_output_list[count])
+        if(result != -1):
+            count = count + 1
+        else:
+            correct = correct + 1
+            count = count + 1
+
+    precision = count/count
+    recall = correct/count
+    fscore = (2/(1/precision + 1/recall))
+    print("precision: ", precision)
+    print("recall: ", recall)
+    print("fscore: ", fscore) 
+
 checkline()
