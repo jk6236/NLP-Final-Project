@@ -1,6 +1,4 @@
 import sys
-sys.append("..")
-from debug import Sample_Model_Output.txt
 import re
 import os
 
