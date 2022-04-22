@@ -4,13 +4,13 @@ This region includes territory belonging to nine nations.|nine|nine
 States or departments in four nations contain "Amazonas" in their names.|four|four
 The Amazon represents over half of the planet's remaining rainforests|over half
 Amazoneregenwoud|Amazoneregenwoud|Amazoneregenwoud
-The Amazon rainforest|Amazon rainforest|The Amazon
+No Answer
 Brazil|Brazil|Brazil
 over half|over half|over half
 16,000|16,000|16,000
 moist broadleaf forest|moist broadleaf forest|tropical
 7,000,000 square kilometres (2,70|7,000,000|7,000,000 square kilometres
-nine nations|nine|nine
+No Answer
 Brazil|Brazil|Brazil
 16,000 species|16,000|16,000
 No Answer
@@ -29,7 +29,7 @@ Climate fluctuations|Climate fluctuations|Climate fluctuations
 Oligocene|Oligocene|Oligocene
 It expanded|expanded|expanded
 Cretaceous–Paleogene extinction event|dinosaurs|dinosaurs
-66–34 Mya|66–34
+No Answer
 Middle Miocene|Middle Miocene|Middle Miocene
 last glacial maximum|last glacial maximum|last glacial maximum
 34 million years|34 million|34 million
@@ -68,7 +68,7 @@ the Last Glacial Maximum (LGM) and subsequent deglaciation|rainfall in the basin
 sediment deposits|sediment deposits|sediment deposits
 reduced moist tropical vegetation cover in the basin|reduced moist tropical vegetation cover in the basin|reduced moist tropical vegetation cover
 21,000|21,000|21,000
-sediment deposits|sediment|sediment
+No Answer
 moist tropical vegetation cover|moist tropical|tropical
 open forest and grassland|open forest and grassland|open forest and grassland
 data sampling is biased away from the center of the Amazon basin|practical limitations of working in the rainforest mean that data sampling is biased away from the center of the Amazon basin|practical limitations of working in the rainforest
@@ -121,7 +121,7 @@ apartheid|fight against apartheid|the fight against apartheid|the fight against 
 Singing Revolution|Singing Revolution|the Singing Revolution|Singing Revolution|Singing Revolution
 Ukraine|Ukraine|Ukraine|Ukraine|Ukraine
 Georgia|Georgia|Georgia|Georgia|Georgia
-Egyptians|Egyptians|Egyptians|Egyptians|India
+No Answer
 the British|British|Egyptians against the British occupation in the 1919 Revolution.|British occupation|communist governments
 nonviolent resistance|unfair laws|nonviolent resistance movements|rebelled against what they deem to be unfair
 unfair laws|unfair laws|unfair laws.|unfair laws|what they deem to be unfair
@@ -139,7 +139,7 @@ giving her brother Polynices a proper burial|trying to stop her from giving her 
 Antigone|Antigone|Antigone|Antigone|Antigone
 Sophocles|Sophocles|Sophocles|Sophocles|Sophocles
 Creon, the current King of Thebes|Creon|Creon, the current King of Thebes|Creon|Creon
-giving her brother Polynices a proper burial|giving her brother Polynices a proper burial|the current King of Thebes, who is trying to stop her from giving her brother Polynices a proper burial|Creon, the current King of Thebes, who is trying to stop her from giving her brother Polynices a proper burial|giving her brother Polynices a proper burial
+No Answer
 obey her conscience rather than human law|She gives a stirring speech|She gives a stirring speech in which she tells him that she must obey her conscience rather than human law|a stirring speech|She gives a stirring speech in which she tells him that she must obey her conscience rather than human law
 No Answer
 No Answer
@@ -166,7 +166,7 @@ ambiguity|debased|ambiguity|ambiguity|ambiguity
 utterly debased|debased|everything from bringing a test-case in the federal courts to taking aim at a federal official|utterly debased
 Marshall Cohen|Marshall Cohen|Marshall Cohen|Marshall Cohen|Marshall Cohen
 become utterly debased|utterly debased|in modern times, become utterly debased|become utterly debased|become utterly debased
-Marshall Cohen|Marshall Cohen|Marshall Cohen|Marshall Cohen|President Agnew
+No Answer
 code-word describing the activities of muggers, arsonists, draft evaders|utterly debased|become utterly debased|become utterly debased|become utterly debased
 Vice President Agnew|Vice President Agnew|Vice President Agnew|Vice President Agnew|Marshall Cohen
 ambiguity|ambiguity|ambiguity|ambiguity
@@ -190,8 +190,8 @@ No Answer
 No Answer
 No Answer
 An architect|architect|architect
-a construction manager, design engineer, construction engineer or project manager|construction engineer or project manager|construction manager, design engineer, construction engineer or project manager
-effective planning|effective planning|effective planning
+No Answer
+No Answer
 megaprojects|megaprojects|megaprojects
 Those involved with the design and execution of the infrastructure|Those involved with the design and execution of the infrastructure|Those involved with the design and execution of the infrastructure in question
 No Answer
@@ -237,7 +237,7 @@ $759,900|$759,900|$759,900
 the methodology used|basis of the methodology used|"silly argument" and "a non-issue . . . a diversion."|basis of the methodology
 a diversion|the basis of the methodology used|there are more poor people in the United States and Western Europe than in China
 40%|40%|40%|40
-financial assets|financial assets|possess more financial assets than the lowest 48 nations combined.|financial assets
+No Answer
 nearly $41 trillion|$41 trillion|the "10 million dollar millionaires" grew to nearly $41 trillion in 2008|$41 trillion
 half|more than half|own more than half of the global wealth by 2016|more than half
 greater tendency to take on debts|greater tendency to take on debts|greater tendency to take on debts
@@ -267,7 +267,7 @@ productivity gap|productivity gap|productivity gap
 marginal value added of each economic actor|differences in value|marginal value added of each economic actor
 differences in value added by labor, capital and land|differences in value added by labor, capital and land|differences in value added by labor, capital and land
 value added by different classifications of workers|value added by labor, capital and land|value added
-wages and profits|wages and profits|wages and profits
+No Answer
 worker, capitalist/business owner, landlord|worker, capitalist/business owner, landlord|worker, capitalist/business owner, landlord
 productivity gap between highly-paid professions and lower-paid professions|productivity gap|productivity gap
 No Answer
@@ -281,7 +281,7 @@ increasing unemployment|increasing unemployment|increasing unemployment
 rising levels of property income|rising levels of property income|downward pressure on wages
 labor inputs|labor inputs (workers)|labor inputs
 reduce costs and maximize profits|to reduce costs and maximize profits|raises the productivity of each worker
-substitute capital equipment|increasingly substitute capital equipment for labor inputs|pressure to reduce costs and maximize profits
+No Answer
 productivity|organic composition of capital|productivity
 stagnant|stagnant wages|stagnant
 No Answer
@@ -291,10 +291,10 @@ No Answer
 No Answer
 a body of treaties and legislation|a body of treaties and legislation, such as Regulations and Directives, which have direct effect or indirect effect on the laws of European Union member states|a body of treaties and legislation, such as Regulations and Directives|a body of treaties and legislation, such as Regulations and Directives
 Treaties establishing the European Union|the Treaties establishing the European Union|primary law, secondary law and supplementary law|the Treaties establishing the European Union
-regulations and directives|regulations and directives which are based on the Treaties|regulations and directives which are based on the Treaties|regulations and directives which are based on the Treaties
+No Answer
 European Parliament and the Council of the European Union|the European Parliament and the Council of the European Union|European Parliament and the Council of the European Union|European Parliament and the Council of the European Union
 a body of treaties and legislation|a body of treaties and legislation, such as Regulations and Directives, which have direct effect or indirect effect on the laws of European Union member states|a body of treaties and legislation, such as Regulations and Directives|a body of treaties and legislation, such as Regulations and Directives
-direct effect or indirect effect|direct effect or indirect effect on the laws of European Union member states|direct effect or indirect effect|direct effect or indirect effect
+No Answer
 primary law, secondary law and supplementary law|primary law, secondary law and supplementary law|primary law, secondary law and supplementary law|primary law, secondary law and supplementary law
 European Parliament and the Council of the European Union|the Treaties establishing the European Union|European Parliament and the Council of the European Union|European Parliament and the Council of the European Union
 primary law, secondary law and supplementary law|primary law, secondary law and supplementary law|primary law, secondary law and supplementary law|primary law, secondary law and supplementary law
@@ -311,10 +311,10 @@ courts of member states|the courts of member states|the courts of member states|
 The European Court of Justice|The European Court of Justice|The European Court of Justice|The European Court of Justice
 international law|case law by the Court of Justice|case law by the Court of Justice|case law by the Court of Justice
 courts of member states and the Court of Justice of the European Union|the courts of member states and the Court of Justice of the European Union|the courts of member states and the Court of Justice of the European Union|the courts of member states and the Court of Justice of the European Union
-the Treaty on the Functioning of the European Union|the Treaty on the Functioning of the European Union|the Treaty on the Functioning of the European Union.|the Treaty on the Functioning of the European Union
+No Answer
 The European Court of Justice|The European Court of Justice|The European Court of Justice|The European Court of Justice
 international law|international law|international law|international law
-the courts of member states and the Court of Justice of the European Union|the courts of member states and the Court of Justice of the European Union|the courts of member states and the Court of Justice of the European Union|the courts of member states and the Court of Justice of the European Union
+No Answer
 the courts of member states|the courts of member states|the courts of member states|the courts of member states
 The European Court of Justice|The European Court of Justice|The European Court of Justice|The European Court of Justice
 case law by the Court of Justice, international law and general principles of European Union law|general principles of European Union law|case law by the Court of Justice|case law by the Court of Justice
@@ -336,7 +336,7 @@ No Answer
 Treaty on European Union (TEU)|Treaty on European Union (TEU)|Treaty on European Union (TEU)|Treaty on European Union (TEU)
 the Faroe Islands|the Faroe Islands|the Faroe Islands|the Faroe Islands
 can interpret the Treaties, but it cannot rule on their validity|The Court of Justice of the European Union can interpret the Treaties|The Court of Justice of the European Union can interpret the Treaties|The Court of Justice of the European Union can interpret the Treaties
-if the Treaty provisions have a direct effect and they are sufficiently clear, precise and unconditional.|if the Treaty provisions have a direct effect and they are sufficiently clear, precise and unconditional|if the Treaty provisions have a direct effect and they are sufficiently clear, precise and unconditional|if the Treaty provisions have a direct effect and they are sufficiently clear, precise and unconditional
+No Answer
 as soon as they enter into force, unless stated otherwise|Treaties apply as soon as they enter into force|as soon as they enter into force|as soon as they enter into force
 Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union (TFEU)|the Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union (TFEU)|the Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union (TFEU)|the Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union (TFEU)
 Gibraltar and the Åland islands|Gibraltar and the Åland islands|Gibraltar and the Åland islands|Gibraltar and the Åland islands
@@ -349,7 +349,7 @@ No Answer
 No Answer
 the southern and central parts of France|southern and central parts of France,|about one-eighth
 about one-eighth the number|about one-eighth|about one-eighth
-from 1562 to 1598|1562 to 1598|562 to 1598
+No Answer
 the Edict of Nantes|Edict of Nantes|the Edict of Nantes
 granted the Huguenots substantial religious, political and military autonomy|granted the Huguenots substantial religious, political and military autonomy|granted the Huguenots substantial religious, political and military autonomy
 No Answer
@@ -389,7 +389,7 @@ No Answer
 No Answer
 Following a referendum in 1997|1998|1998
 Scotland Act 1998|Scotland Act 1998|Scotland Act
-in which it can make laws|the areas in which it can make laws|powers that are "reserved" to the Parliament of the United Kingdom
+No Answer
 Parliament of the United Kingdom|Parliament of the United Kingdom|The British Parliament
 Westminster|Westminster|Westminster
 No Answer
@@ -427,7 +427,7 @@ No Answer
 No Answer
 diversified|highly diversified|highly diversified
 second|second|second
-fourth|fourth|fourth
+No Answer
 Melbourne|Melbourne|Melbourne
 Melbourne Cricket Ground|The Melbourne Cricket Ground|Melbourne Cricket Ground
 No Answer
@@ -448,7 +448,7 @@ No Answer
 multi-member proportional|multi-member proportional|multi-member proportional representation system
 eight|eight|eight
 five|five|five
-four years|four years|four years
+No Answer
 every four years|every four years|four years
 No Answer
 No Answer
@@ -466,7 +466,7 @@ No Answer
 No Answer
 force|force|the concept of force|the concept of force|force|force
 fundamental error|A fundamental error|A fundamental error|A fundamental error|A fundamental error|A fundamental error
-Sir Isaac Newton|Sir Isaac Newton|Sir Isaac Newton|Sir Isaac Newton|Sir Isaac Newton|Sir Isaac Newton
+No Answer
 nearly three hundred years|nearly three hundred years|nearly three hundred years|nearly three hundred years|nearly three hundred years|three hundred years
 Einstein|Einstein|Einstein|Einstein|Einstein|Einstein
 No Answer
@@ -485,7 +485,7 @@ No Answer
 No Answer
 Aristotle|Aristotle|Aristotle|Aristotle|Aristotle|Aristotle
 Aristotelian cosmology|Aristotelian cosmology|Aristotelian cosmology|Aristotelian cosmology|cosmology|Aristotelian cosmology
-four|four|four|four|four|four
+No Answer
 on the ground|ground|heavy bodies to fall|on the ground|on the ground|on the ground
 unnatural|unnatural|natural motion|unnatural|continued application of a force|unnatural
 No Answer
@@ -502,7 +502,7 @@ No Answer
 No Answer
 No Answer
 melt (magma and/or lava)|melt|rock crystallizes from melt (magma and/or lava)|melt (magma and/or lava)
-metamorphic rock|metamorphic|metamorphic rock|metamorphic
+No Answer
 new magma|igneous|new magma|magma
 igneous, sedimentary, and metamorphic|igneous, sedimentary, and metamorphic|igneous, sedimentary, and metamorphic|igneous, sedimentary, and metamorphic
 heat and pressure|heat and pressure|heat and pressure|heat and pressure
@@ -518,7 +518,7 @@ No Answer
 No Answer
 seafloor spreading|seafloor spreading|seafloor spreading|seafloor spreading
 the crust and rigid uppermost portion of the upper mantle|crust and rigid uppermost portion of the upper mantle|crust and rigid uppermost portion of the upper mantle|crust and rigid uppermost portion of the upper mantle
-asthenosphere|asthenosphere|asthenosphere|asthenosphere
+No Answer
 the convecting mantle|convection of the mantle|convection of the mantle|the convecting mantle
 the 1960s|1960s|1960s|1960s
 No Answer
@@ -534,7 +534,7 @@ No Answer
 divergent boundaries|divergent boundaries|divergent boundaries|divergent boundaries
 convergent boundaries|convergent boundaries|convergent boundaries|convergent boundaries
 Transform boundaries|Transform|Transform boundaries|Transform boundaries
-Alfred Wegener|Alfred Wegener|Alfred Wegener|Alfred Wegener
+No Answer
 the convecting mantle|convecting mantle|convecting|convecting
 No Answer
 No Answer
@@ -560,8 +560,8 @@ No Answer
 No Answer
 John Harvard|John Harvard|John Harvard
 1977|1977|1977
-James Bryant Conant|James Bryant Conant|James Bryant Conant
-Association of American Universities|Association of American Universities|Association of American Universities
+No Answer
+No Answer
 Charles W. Eliot|Charles W. Eliot|Charles W. Eliot
 No Answer
 No Answer
@@ -579,7 +579,7 @@ No Answer
 No Answer
 No Answer
 Boston metropolitan area|Boston|Boston
-$37.6 billion|$37.6 billion|$37.6 billion
+No Answer
 Charles River|Charles|Charles
 eleven separate academic units|eleven|eleven
 Harvard Yard|Harvard Yard|Harvard Yard
@@ -600,9 +600,9 @@ No Answer
 No Answer
 disease|disease|disease|disease
 pathogens|pathogens|pathogens|pathogens
-neuroimmune system|neuroimmune|neuroimmune|neuroimmune system
+No Answer
 blood–brain barrier, blood–cerebrospinal fluid barrier|blood–brain barrier, blood–cerebrospinal fluid barrier, and similar fluid–brain barriers|blood–brain barrier, blood–cerebrospinal fluid barrier, and similar fluid–brain barriers|fluid–brain barriers
-pathogens|pathogens|pathogens|pathogens
+No Answer
 humoral immunity versus cell-mediated immunity|humoral immunity versus cell-mediated immunity|humoral immunity versus cell-mediated immunity|humoral immunity versus cell-mediated immunity
 innate immune system versus the adaptive immune system|innate immune system versus the adaptive immune system|innate immune system versus the adaptive immune system|innate immune system versus the adaptive immune system
 neuroimmune system|neuroimmune|neuroimmune system|neuroimmune system
@@ -631,7 +631,7 @@ No Answer
 No Answer
 Innate immune systems|Innate|Innate immune systems
 adaptive immune system|adaptive|the adaptive immune system
-immunological memory|immunological memory|immunological memory
+No Answer
 physical barriers|physical barriers|physical barriers
 No Answer
 No Answer
@@ -648,8 +648,8 @@ No Answer
 No Answer
 No Answer
 influence|influence|influence|influence|influence
-"Formal imperialism"|formal|"Formal imperialism|Formal imperialism|Formal
-othering|othering|othering|othering|othering
+No Answer
+No Answer
 direct|direct|direct|direct|direct
 No Answer
 No Answer
@@ -678,7 +678,7 @@ No Answer
 No Answer
 Islamism|Islamism|Islamism
 all spheres of life.|all spheres of life|all spheres
-reordering|reordering of government and society in accordance with the Shari'a|reordering
+No Answer
 poles|two poles|poles
 revolution or invasion|revolution or invasion|revolution
 No Answer
@@ -687,7 +687,7 @@ No Answer
 No Answer
 democratic|democratic process|democratic
 Palestine|Palestine|Palestine
-abolish the state of Israel|abolish the state of Israel|abolish the state of Israel
+No Answer
 democracy|democracy|democracy
 religious|religious|religious
 No Answer
@@ -708,7 +708,7 @@ No Answer
 political|political|political
 Islam|Islam|Islam
 its supporters|Scholars and observers|Islamism
-illiberal Islamic regimes|illiberal Islamic regimes|illiberal Islamic regimes
+No Answer
 religion from politics|religion from politics|religion from politics
 No Answer
 No Answer
