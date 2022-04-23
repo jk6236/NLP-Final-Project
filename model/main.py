@@ -65,7 +65,7 @@ for file_name in tqdm(corpus_file_names):
 #question = 'How many US presidents are alumni of the school?'
 question = 'Where can tourists go when they visit Cambridge?'
 with open('model_answers.txt', 'w+') as output_file:
-    with open('Questions.txt', 'r') as questions_file:
+    with open('../debug/Questions.txt', 'r') as questions_file:
         questions = questions_file.readlines()
         for i in tqdm(range(len(questions))):
             question = questions[i][:-1]
@@ -104,7 +104,7 @@ with open('model_answers.txt', 'w+') as output_file:
                     best_score = cosine 
 
             best_files = [best_file, second_best_file]
-            best_answer = 'No Answers'
+            best_answer = 'No Answer'
             best_answer_val = 0
             for best_file_name in best_files:
                 if best_file_name == '':
