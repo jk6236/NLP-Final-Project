@@ -64,7 +64,10 @@ for file_name in tqdm(corpus_file_names):
 #question = 'What is it called when people in society rebel against laws they think are unfair?'
 #question = 'How many US presidents are alumni of the school?'
 #question = 'Where can tourists go when they visit Cambridge?'
-with open('model_answers.txt', 'w+') as output_file:
+
+print(len(corpus_file_names))
+
+with open('model_answers_baseline.txt', 'w+') as output_file:
     with open('../debug/Questions.txt', 'r') as questions_file:
         questions = questions_file.readlines()
         for i in tqdm(range(len(questions))):
@@ -72,38 +75,38 @@ with open('model_answers.txt', 'w+') as output_file:
 
             question_tokenized = word_tokenize(question)
 
-            best_score = float('-inf')
-            best_file = ''
-            second_best_file = ''
+            # best_score = float('-inf')
+            # best_file = ''
+            # second_best_file = ''
 
-            for file_name in corpus_file_names:
-                mag_q = 0
-                mag_doc = 0
-                numerator = 0
-                for word in question_tokenized:
-                    if word not in stopwords:
-                        mag_q += 1
-                        if word in idf_documents:
-                            if word in tf_documents[file_name]:
-                                tf_val = tf_documents[file_name][word]
-                            else:
-                                tf_val = 0
-                            idf_val = idf_documents[word]
-                            res = calculate_tfidf(tf_val, idf_val, num_docs)
-                            mag_doc += res**2
-                            numerator += res
+            # for file_name in corpus_file_names:
+            #     mag_q = 0
+            #     mag_doc = 0
+            #     numerator = 0
+            #     for word in question_tokenized:
+            #         if word not in stopwords:
+            #             mag_q += 1
+            #             if word in idf_documents:
+            #                 if word in tf_documents[file_name]:
+            #                     tf_val = tf_documents[file_name][word]
+            #                 else:
+            #                     tf_val = 0
+            #                 idf_val = idf_documents[word]
+            #                 res = calculate_tfidf(tf_val, idf_val, num_docs)
+            #                 mag_doc += res**2
+            #                 numerator += res
 
-                if (math.sqrt(float(mag_q)) * math.sqrt(float(mag_doc))) == 0:
-                    cosine = float('-inf')
-                else:
-                    cosine = float(numerator) / (math.sqrt(float(mag_q)) * math.sqrt(float(mag_doc)))
-                if cosine >= best_score:
-                    if best_file != '':
-                        second_best_file = best_file
-                    best_file = file_name
-                    best_score = cosine 
+            #     if (math.sqrt(float(mag_q)) * math.sqrt(float(mag_doc))) == 0:
+            #         cosine = float('-inf')
+            #     else:
+            #         cosine = float(numerator) / (math.sqrt(float(mag_q)) * math.sqrt(float(mag_doc)))
+            #     if cosine >= best_score:
+            #         if best_file != '':
+            #             second_best_file = best_file
+            #         best_file = file_name
+            #         best_score = cosine 
 
-            best_files = [best_file, second_best_file]
+            best_files = corpus_file_names
             best_answer = 'No Answer'
             best_answer_val = 0
             for best_file_name in best_files:
@@ -122,7 +125,6 @@ with open('model_answers.txt', 'w+') as output_file:
                         res = transformer.query(QA_input)
                         if res['score'] > best_answer_val and res['score'] > 0.3:
                             best_answer = res['answer']
-                            best_answer_val = res['score']
             output_file.write(best_answer+'\n')
 
         

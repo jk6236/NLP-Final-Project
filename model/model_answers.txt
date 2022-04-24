@@ -42,7 +42,7 @@ Purus Arch
 toward the Atlantic
 No Answer
 5–10 million years
-sea
+easterly flow toward the Atlantic
 mid-Eocene
 the Atlantic
 the Atlantic
@@ -87,7 +87,7 @@ No Answer
 No Answer
 1347
 commonly present
-1338–
+430 BC
 China
 1331
 25 million
@@ -105,7 +105,7 @@ No Answer
 No Answer
 No Answer
 No Answer
-mouse
+Jani Beg
 the same direction
 No Answer
 No Answer
@@ -121,7 +121,7 @@ No Answer
 Singing Revolution
 Ukraine
 Georgia
-Timucua people
+Egyptians
 No Answer
 unfair laws
 unfair laws
@@ -137,7 +137,7 @@ Creon
 Antigone
 giving her brother Polynices a proper burial
 Antigone
-Walter Reed
+Sophocles
 federal official
 No Answer
 No Answer
@@ -146,17 +146,17 @@ Percy Shelley
 No Answer
 No Answer
 nurse
-Joseph Priestley
+Percy Shelley
 nonviolent
 Pedanius Dioscorides
 Satyagraha
 independence from the British Empire
-ozone
+Percy Shelley
 No Answer
 nonviolent protest
 Gandhi
 ozone
-1819
+1943
 Satyagraha
 campaigns for independence from the British Empire
 No Answer
@@ -199,14 +199,14 @@ No Answer
 megaprojects
 Injectors
 Top-40
-intermediate network nodes
+An architect
 intermediate network nodes
 megaprojects
 effective planning
 buildings, infrastructure and industrial
 16,000 species
 heavy/highway, heavy civil or heavy engineering
-Private schools
+Infrastructure
 Industrial
 power
 No Answer
@@ -214,7 +214,7 @@ Infrastructure
 Industrial
 dams, bridges, highways, water/wastewater and utility distribution
 No Answer
-upper sixth
+Industrial
 animals and plant products
 commercial/institutional
 a trade magazine for the construction industry
@@ -309,7 +309,7 @@ No Answer
 No Answer
 No Answer
 King Sigismund III Vasa
-pottery
+Civil disobedience
 No Answer
 No Answer
 Congress of Vienna
@@ -471,7 +471,7 @@ three hundred years
 Einstein
 Philosophers
 motion
-European seaborne empires
+Galileo Galilei and Sir Isaac Newton
 Aristotelian physics
 Galileo Galilei
 Standard Model
@@ -483,7 +483,7 @@ No Answer
 No Answer
 No Answer
 No Answer
-Alfred Wegener
+Edward Said
 No Answer
 four
 air
@@ -493,7 +493,7 @@ four
 left alone
 Aristotle
 17th century work of Galileo Galilei
-Joseph Priestley
+Galileo Galilei
 innate force
 Galileo
 friction
@@ -517,7 +517,7 @@ No Answer
 fault
 No Answer
 seafloor spreading
-ozone
+the crust and rigid uppermost portion of the upper mantle
 asthenosphere
 convection of the mantle
 1960s
@@ -526,13 +526,13 @@ No Answer
 the same direction
 trade routes
 convection
-ozone
+asthenosphere
 No Answer
 dephlogisticated air
 1960s
 plate tectonics
 asthenosphere
-dephlogisticated air
+imperium
 Transform boundaries
 Alfred Wegener
 convecting
@@ -540,7 +540,7 @@ resulted in widespread powerful earthquakes
 divergent boundaries
 widespread powerful earthquakes
 No Answer
-University of North Florida
+Alfred Wegener
 No Answer
 No Answer
 No Answer
@@ -551,7 +551,7 @@ crust and lithosphere
 air
 wave speeds
 ozone
-ozone
+shear waves
 ozone
 No Answer
 No Answer
@@ -579,7 +579,7 @@ No Answer
 eight
 62
 Jacksonville
-financial
+$37.6 billion
 Charles River
 five
 No Answer
@@ -598,7 +598,7 @@ No Answer
 John Harvard
 1638
 University of Cambridge
-ultraviolet radiation
+disease
 pathogens
 neuroimmune system
 No Answer
@@ -606,7 +606,7 @@ pathogens
 ozone
 No Answer
 No Answer
-Plate tectonics
+immune system
 No Answer
 pathogens
 No Answer
@@ -621,7 +621,7 @@ physical barriers
 No Answer
 No Answer
 Robert Koch
-nitroaereus
+microorganisms
 yellow fever
 ozone
 Immunology
@@ -638,10 +638,10 @@ No Answer
 adaptive immune system
 immunological memory
 No Answer
-Egyptians
+Latin
 ozone
 East Germany
-the Black Death
+technologies and ideas
 Norway
 No Answer
 16th
@@ -660,7 +660,7 @@ No Answer
 Formal imperialism
 aggressiveness
 seaborne
-pistons or turbines
+technological superiority
 No Answer
 No Answer
 aggressiveness
@@ -680,11 +680,11 @@ Islamism
 No Answer
 No Answer
 two poles
-sea and trade routes
+revolution or invasion
 No Answer
 No Answer
 No Answer
-sea and trade routes
+revolution or invasion
 separate religion from politics
 Palestine
 abolish the state of Israel
@@ -715,24 +715,24 @@ apolitical
 No Answer
 illiberal Islamic regimes
 religion from politics
-ozone
+Jacksonville
 1,345,596
 12th
-ozone
+Duval County
 No Answer
 ozone
-ozone
+Duval County
 1968
 Warsaw
+Jacksonville
+St. Johns River
 ozone
-nitroaereus
-ozone
-ozone
+Fort Caroline
 Timucua
-ozone
+Andrew Jackson
 ozone
 1919
-ozone
+Cow Ford
 ozone
 third largest
 golf
@@ -746,7 +746,7 @@ No Answer
 professionals
 Joseph Priestley
 Imperialism
-ozone
+the historical era
 Ossachite
 No Answer
 ozone
@@ -790,34 +790,34 @@ respiration
 John Mayow
 fire
 ozone
-ozone
+1901
 Joseph Priestley
 teachers
 Priestley
-teachers
+clergyman
 mercuric oxide
 HgO
 mercuric oxide
-Different Kinds of Air
+dephlogisticated air
 1775
 he published his findings first
 more active and lived longer
 ozone
 ozone
 ozone
-Different Kinds of Air
-pottery
+dephlogisticated air
+Distributed Adaptive Message Block Switching
 provide a fault-tolerant, efficient routing method for telecommunication messages
-Aristotelian theory of motion
+democracy
 coining the modern name packet switching
-ozone
+Distributed Adaptive Message Block Switching
 No Answer
 Donald Davies
-dephlogisticated air
+Distributed Adaptive Message Block Switching
 abolish the state of Israel
 US Department of Defense
 ozone
-Ossachite
+telecommunications
 No Answer
 Donald Davies
 No Answer
@@ -831,7 +831,7 @@ No Answer
 No Answer
 No Answer
 RAND Corporation
-Andrew Jackson
+Donald Davies
 Harbor improvements
 circuit switching
 a fee per unit of connection time
@@ -872,9 +872,9 @@ No Answer
 No Answer
 intermediate forwarding nodes
 No Answer
-five
+two
 No Answer
-no data is transferred
+overseas
 No Answer
 No Answer
 according to a multiple access scheme
@@ -954,12 +954,12 @@ fundamental theorem of arithmetic
 primes
 one can include arbitrarily many instances of 1 in any factorization
 2 and 3
-ozone
+composite
 composite
 No Answer
 No Answer
 primality
-Rankine cycle
+trial division
 No Answer
 No Answer
 No Answer
@@ -978,12 +978,12 @@ Euclid
 general-purpose aggressiveness
 prime number theorem
 around 300 BC
-nitroaereus
+Goldbach's conjecture
 twin prime conjecture
 algebraic
 public-key cryptography
-prime elements and prime ideals
-nitroaereus
+Imperialism
+Goldbach's conjecture
 twin prime conjecture
 algebraic
 public-key cryptography
@@ -1007,7 +1007,7 @@ almost never used of universities and other tertiary institutions
 No Answer
 No Answer
 lower sixth
-materia medica
+upper sixth
 prep schools
 peer tuitions
 the best teachers
@@ -1030,8 +1030,8 @@ demographics and economic ties
 Duval County
 Duval County
 No Answer
-Duval County
-12th
+Southern California Megaregion
+11
 Las Vegas, Nevada
 Mexican
 Tijuana
@@ -1050,14 +1050,14 @@ No Answer
 nitroaereus
 Colorado Desert
 Mojave Desert
-ozone
+Georgia
 Colorado Desert
 No Answer
 No Answer
-radio
+solar power
 Rankine cycle
-nitroaereus
-ozone
+steam
+high pressure
 external combustion engines
 nitroaereus
 Rankine cycle
@@ -1065,9 +1065,9 @@ steam
 ozone
 Non-combustion heat sources
 atmospheric engine
-Joseph Priestley
-1774
-distributed adaptive message block switching
+Thomas Newcomen
+1712
+steam pump
 Papin
 No Answer
 Richard Trevithick
@@ -1085,7 +1085,7 @@ ozone
 No Answer
 south Wales
 water pump
-ozone
+multi-stage centrifugal pumps
 1271
 No Answer
 lower-pressure boiler feed water
@@ -1126,7 +1126,7 @@ King Sigismund III Vasa
 No Answer
 Roman Catholic
 Polish Academy of Sciences
-UNESCO World Heritage Site
+Phoenix City
 No Answer
 luxurious parks and royal gardens
 No Answer
@@ -1163,9 +1163,9 @@ No Answer
 No Answer
 No Answer
 Mongol and Turkic
-1251
+1206
 Ögedei Khan
-1251
+1206
 No Answer
 Mongol and Turkic
 1206
