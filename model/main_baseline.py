@@ -8,7 +8,8 @@ import nltk
 from nltk import word_tokenize
 from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords as sw
-
+nltk.download('stopwords')
+nltk.download('punkt')
 
 transformer = Model('deepset/roberta-base-squad2')
 
@@ -67,7 +68,7 @@ for file_name in tqdm(corpus_file_names):
 
 print(len(corpus_file_names))
 
-with open('model_answers_baseline.txt', 'w+') as output_file:
+with open('model_answers_baseline2.txt', 'w+') as output_file:
     with open('../debug/Questions.txt', 'r') as questions_file:
         questions = questions_file.readlines()
         for i in tqdm(range(len(questions))):
