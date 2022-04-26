@@ -13,11 +13,11 @@ moist broadleaf forest|moist broadleaf forest|tropical
 nine nations|nine|nine
 Brazil|Brazil|Brazil
 16,000 species|16,000|16,000
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 the wetter climate may have allowed the tropical rainforest to spread out across the continent.|wetter|wetter
 Climate fluctuations during the last 34 million years have allowed savanna regions to expand into the tropics.|Climate fluctuations during the last 34 million years|Climate fluctuations
 During the Oligocene, for example, the rainforest spanned a relatively narrow band.|Oligocene|Oligocene
@@ -33,11 +33,11 @@ Cretaceous–Paleogene extinction event|dinosaurs|dinosaurs
 Middle Miocene|Middle Miocene|Middle Miocene
 last glacial maximum|last glacial maximum|last glacial maximum
 34 million years|34 million|34 million
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 During the mid-Eocene, it is believed that the drainage basin of the Amazon was split along the middle of the continent by the Purus Arch.|During the mid-Eocene|mid-Eocene
 Water on the eastern side flowed toward the Atlantic,|toward the Atlantic|toward the Atlantic
 Solimões Basin|Solimões Basin|Solimões Basin
@@ -53,11 +53,11 @@ Purus Arch|along the middle|Purus Arch
 the Atlantic|the Atlantic|Atlantic
 the Pacific|the Pacific|Pacific
 Solimões Basin|Solimões Basin|Solimões Basin
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Last Glacial Maximum|Last Glacial Maximum|Last Glacial Maximum
 rainfall in the basin during the LGM was lower than for the present|rainfall in the basin during the LGM was lower than for the present|rainfall in the basin during the LGM was lower
 the rainforest was reduced to small, isolated refugia separated by open forest and grassland|the rainforest was reduced to small, isolated refugia separated by open forest and grassland|rainforest was reduced
@@ -72,50 +72,50 @@ sediment deposits|sediment|sediment
 moist tropical vegetation cover|moist tropical|tropical
 open forest and grassland|open forest and grassland|open forest and grassland
 data sampling is biased away from the center of the Amazon basin|practical limitations of working in the rainforest mean that data sampling is biased away from the center of the Amazon basin|practical limitations of working in the rainforest
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
 the arid plains of Central Asia|Central Asia|Central Asia
 merchant ships.|merchant ships|Silk Road
 30–60% of Europe's total population|30–60% of Europe's total population|30–60%
 the 17th century|17th century|17th century
 until the 19th century|until the 19th century|19th century
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 commonly present|commonly present|commonly present
 dating to 1338–39|1338–39|1338–39
 China|China|China
 1331|1331|1331
 an estimated 25 million|25 million|25 million
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Genoese traders|Genoese traders|Genoese traders
 Jani Beg|Jani Beg|Jani Beg
 infected corpses|infected corpses|infected corpses
 Sicily|Sicily and the south of Europe|Sicily
 war, famine, and weather|war, famine, and weather|war, famine, and weather
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 northwest across Europe|northwest|northwest
 northwestern Russia|Russia|Russia
 parts of Europe that had smaller trade relations with their neighbours|smaller trade relations with their neighbours|smaller trade relations with their neighbours
 Germany and Scandinavia|Germany and Scandinavia|Germany and Scandinavia
 1349|1349|1349
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Civil disobedience|Civil disobedience|Civil disobedience|Civil disobedience|Civil disobedience
 apartheid|fight against apartheid|the fight against apartheid|the fight against apartheid|Singing Revolution to bring independence to the Baltic countries
 Singing Revolution|Singing Revolution|the Singing Revolution|Singing Revolution|Singing Revolution
@@ -126,11 +126,11 @@ the British|British|Egyptians against the British occupation in the 1919 Revolut
 nonviolent resistance|unfair laws|nonviolent resistance movements|rebelled against what they deem to be unfair
 unfair laws|unfair laws|unfair laws.|unfair laws|what they deem to be unfair
 American Civil Rights Movement|American Civil Rights Movement|American Civil Rights Movement|Civil Rights Movement|American Civil Rights Movement
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Antigone|Antigone|Antigone|Antigone|Antigone
 former King of Thebes|Oedipus|Oedipus|Oedipus|King of Thebes
 Creon|Creon|Creon|Creon|Creon
@@ -141,11 +141,11 @@ Sophocles|Sophocles|Sophocles|Sophocles|Sophocles
 Creon, the current King of Thebes|Creon|Creon, the current King of Thebes|Creon|Creon
 giving her brother Polynices a proper burial|giving her brother Polynices a proper burial|the current King of Thebes, who is trying to stop her from giving her brother Polynices a proper burial|Creon, the current King of Thebes, who is trying to stop her from giving her brother Polynices a proper burial|giving her brother Polynices a proper burial
 obey her conscience rather than human law|She gives a stirring speech|She gives a stirring speech in which she tells him that she must obey her conscience rather than human law|a stirring speech|She gives a stirring speech in which she tells him that she must obey her conscience rather than human law
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Percy Shelley|Percy Shelley|Percy Shelley|Percy Shelley|Percy Shelley
 nonviolent|political poem|nonviolent|nonviolent|nonviolent
 Henry David Thoreau|Gandhi|Henry David Thoreau|Henry David Thoreau|Gandhi
@@ -156,11 +156,11 @@ unjust forms of authority|Peterloo massacre|unjust forms of authority|the unjust
 principle of nonviolent protest|nonviolent protest|nonviolent protest|nonviolent protest|nonviolent protest
 Gandhi|Gandhi|Gandhi|Gandhi|Gandhi
 doctrine of Satyagraha|Satyagraha|Satyagraha|Satyagraha|Satyagraha
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 muggers, arsonists, draft evaders, campaign hecklers, campus militants, anti-war demonstrators, juvenile delinquents and political assassins|civil disobedience|muggers, arsonists, draft evaders, campaign hecklers, campus militants, anti-war demonstrators, juvenile delinquents and political assassins|muggers, arsonists, draft evaders, campaign hecklers, campus militants, anti-war demonstrators, juvenile delinquents and political assassins|activities of muggers, arsonists, draft evaders, campaign hecklers, campus militants, anti-war demonstrators, juvenile delinquents and political assassins
 ambiguity|debased|ambiguity|ambiguity|ambiguity
 utterly debased|debased|everything from bringing a test-case in the federal courts to taking aim at a federal official|utterly debased
@@ -170,434 +170,201 @@ Marshall Cohen|Marshall Cohen|Marshall Cohen|Marshall Cohen|President Agnew
 code-word describing the activities of muggers, arsonists, draft evaders|utterly debased|become utterly debased|become utterly debased|become utterly debased
 Vice President Agnew|Vice President Agnew|Vice President Agnew|Vice President Agnew|Marshall Cohen
 ambiguity|ambiguity|ambiguity|ambiguity
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Construction|Construction|Construction
 manufacturing|manufacturing|manufacturing
 six to nine percent|six to nine percent|six to nine percent
 planning,[citation needed] design, and financing|planning,[citation needed] design, and financing|planning,[citation needed] design, and financing and continues until the project is built
 a known client|client|known client
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 An architect|architect|architect
 a construction manager, design engineer, construction engineer or project manager|construction engineer or project manager|construction manager, design engineer, construction engineer or project manager
 effective planning|effective planning|effective planning
 megaprojects|megaprojects|megaprojects
 Those involved with the design and execution of the infrastructure|Those involved with the design and execution of the infrastructure|Those involved with the design and execution of the infrastructure in question
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 buildings, infrastructure and industrial|buildings, infrastructure and industrial|buildings, infrastructure and industrial
 residential and non-residential|residential and non-residential (commercial/institutional)|residential and non-residential (commercial/institutional)
 heavy/highway, heavy civil or heavy engineering|heavy/highway, heavy civil or heavy engineering|heavy/highway, heavy civil or heavy engineering
 Infrastructure|Infrastructure|Infrastructure
 Industrial|heavy civil or heavy engineering|Industrial
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 a trade magazine for the construction industry|a trade magazine for the construction industry|trade magazine for the construction industry
 ENR|Engineering News-Record (ENR)|Engineering News-Record (ENR)
 2014|2014|2014
 transportation, sewer, hazardous waste and water|data on transportation, sewer, hazardous waste and water|transportation, sewer, hazardous waste and water
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-40%|40%|40%|40
-about 3.5 billion people|3.5 billion|50%|3.5 billion
-$759,900|$759,900|$759,900
-the methodology used|basis of the methodology used|"silly argument" and "a non-issue . . . a diversion."|basis of the methodology
-a diversion|the basis of the methodology used|there are more poor people in the United States and Western Europe than in China
-40%|40%|40%|40
-financial assets|financial assets|possess more financial assets than the lowest 48 nations combined.|financial assets
-nearly $41 trillion|$41 trillion|the "10 million dollar millionaires" grew to nearly $41 trillion in 2008|$41 trillion
-half|more than half|own more than half of the global wealth by 2016|more than half
-greater tendency to take on debts|greater tendency to take on debts|greater tendency to take on debts
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-400|400|400
-New York Times|New York Times|New York Times
-Inherited wealth|Inherited wealth|Inherited wealth
-grew up in substantial privilege|substantial privilege|substantial privilege
-wealth|wealth|wealth
-richest 1 percent|richest 1 percent|richest 1 percent
-Inherited wealth|Inherited wealth|Inherited wealth
-over 60 percent|over 60 percent|over 60 percent
-Institute for Policy Studies|Institute for Policy Studies|PolitiFact
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-Neoclassical economics|Neoclassical economics|Neoclassical economics
-differences in value added by labor, capital and land|differences in value added by labor, capital and land|differences in value added by different classifications of workers
-different classifications of workers|differences in value added by different classifications of workers|differences in value added by different classifications of workers
-productivity gap|productivity gap|productivity gap
-marginal value added of each economic actor|differences in value|marginal value added of each economic actor
-differences in value added by labor, capital and land|differences in value added by labor, capital and land|differences in value added by labor, capital and land
-value added by different classifications of workers|value added by labor, capital and land|value added
-wages and profits|wages and profits|wages and profits
-worker, capitalist/business owner, landlord|worker, capitalist/business owner, landlord|worker, capitalist/business owner, landlord
-productivity gap between highly-paid professions and lower-paid professions|productivity gap|productivity gap
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-reduce costs and maximize profits|substitution of capital equipment for labor|pressure to reduce costs and maximize profits
-less workers are required|raises the productivity of each worker,
-increasing unemployment|increasing unemployment|increasing unemployment
-rising levels of property income|rising levels of property income|downward pressure on wages
-labor inputs|labor inputs (workers)|labor inputs
-reduce costs and maximize profits|to reduce costs and maximize profits|raises the productivity of each worker
-substitute capital equipment|increasingly substitute capital equipment for labor inputs|pressure to reduce costs and maximize profits
-productivity|organic composition of capital|productivity
-stagnant|stagnant wages|stagnant
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-a body of treaties and legislation|a body of treaties and legislation, such as Regulations and Directives, which have direct effect or indirect effect on the laws of European Union member states|a body of treaties and legislation, such as Regulations and Directives|a body of treaties and legislation, such as Regulations and Directives
-Treaties establishing the European Union|the Treaties establishing the European Union|primary law, secondary law and supplementary law|the Treaties establishing the European Union
-regulations and directives|regulations and directives which are based on the Treaties|regulations and directives which are based on the Treaties|regulations and directives which are based on the Treaties
-European Parliament and the Council of the European Union|the European Parliament and the Council of the European Union|European Parliament and the Council of the European Union|European Parliament and the Council of the European Union
-a body of treaties and legislation|a body of treaties and legislation, such as Regulations and Directives, which have direct effect or indirect effect on the laws of European Union member states|a body of treaties and legislation, such as Regulations and Directives|a body of treaties and legislation, such as Regulations and Directives
-direct effect or indirect effect|direct effect or indirect effect on the laws of European Union member states|direct effect or indirect effect|direct effect or indirect effect
-primary law, secondary law and supplementary law|primary law, secondary law and supplementary law|primary law, secondary law and supplementary law|primary law, secondary law and supplementary law
-European Parliament and the Council of the European Union|the Treaties establishing the European Union|European Parliament and the Council of the European Union|European Parliament and the Council of the European Union
-primary law, secondary law and supplementary law|primary law, secondary law and supplementary law|primary law, secondary law and supplementary law|primary law, secondary law and supplementary law
-the Treaties establishing the European Union|the Treaties establishing the European Union|the Treaties establishing the European Union|the Treaties establishing the European Union
-the European Parliament and the Council of the European Union|the European Parliament and the Council of the European Union|European Parliament and the Council of the European Union|European Parliament and the Council of the European Union
-three|three|three|three
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-courts of member states and the Court of Justice of the European Union|the courts of member states and the Court of Justice of the European Union|the courts of member states and the Court of Justice of the European Union|the courts of member states and the Court of Justice of the European Union
-courts of member states|the courts of member states|the courts of member states|the courts of member states
-The European Court of Justice|The European Court of Justice|The European Court of Justice|The European Court of Justice
-international law|case law by the Court of Justice|case law by the Court of Justice|case law by the Court of Justice
-courts of member states and the Court of Justice of the European Union|the courts of member states and the Court of Justice of the European Union|the courts of member states and the Court of Justice of the European Union|the courts of member states and the Court of Justice of the European Union
-the Treaty on the Functioning of the European Union|the Treaty on the Functioning of the European Union|the Treaty on the Functioning of the European Union.|the Treaty on the Functioning of the European Union
-The European Court of Justice|The European Court of Justice|The European Court of Justice|The European Court of Justice
-international law|international law|international law|international law
-the courts of member states and the Court of Justice of the European Union|the courts of member states and the Court of Justice of the European Union|the courts of member states and the Court of Justice of the European Union|the courts of member states and the Court of Justice of the European Union
-the courts of member states|the courts of member states|the courts of member states|the courts of member states
-The European Court of Justice|The European Court of Justice|The European Court of Justice|The European Court of Justice
-case law by the Court of Justice, international law and general principles of European Union law|general principles of European Union law|case law by the Court of Justice|case law by the Court of Justice
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union (TFEU)|the Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union (TFEU)|the Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union (TFEU)|the Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union (TFEU)
-The European Commission|The European Commission|The European Commission|The European Commission
-citizens|citizens|citizens|citizens
-The European Court of Justice|The European Court of Justice|The European Court of Justice|The European Court of Justice
-The "European Council"|The "European Council"|The "European Council"|The "European Council"
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-Treaty on European Union (TEU)|Treaty on European Union (TEU)|Treaty on European Union (TEU)|Treaty on European Union (TEU)
-the Faroe Islands|the Faroe Islands|the Faroe Islands|the Faroe Islands
-can interpret the Treaties, but it cannot rule on their validity|The Court of Justice of the European Union can interpret the Treaties|The Court of Justice of the European Union can interpret the Treaties|The Court of Justice of the European Union can interpret the Treaties
-if the Treaty provisions have a direct effect and they are sufficiently clear, precise and unconditional.|if the Treaty provisions have a direct effect and they are sufficiently clear, precise and unconditional|if the Treaty provisions have a direct effect and they are sufficiently clear, precise and unconditional|if the Treaty provisions have a direct effect and they are sufficiently clear, precise and unconditional
-as soon as they enter into force, unless stated otherwise|Treaties apply as soon as they enter into force|as soon as they enter into force|as soon as they enter into force
-Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union (TFEU)|the Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union (TFEU)|the Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union (TFEU)|the Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union (TFEU)
-Gibraltar and the Åland islands|Gibraltar and the Åland islands|Gibraltar and the Åland islands|Gibraltar and the Åland islands
-Treaties apply as soon as they enter into force, unless stated otherwise|Treaties apply as soon as they enter into force, unless stated otherwise, and are generally concluded for an unlimited period|as soon as they enter into force|as soon as they enter into force
-The Court of Justice of the European Union can interpret the Treaties|The Court of Justice of the European Union can interpret the Treaties|The Court of Justice of the European Union|The Court of Justice of the European Union
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-the southern and central parts of France|southern and central parts of France,|about one-eighth
-about one-eighth the number|about one-eighth|about one-eighth
-from 1562 to 1598|1562 to 1598|562 to 1598
-the Edict of Nantes|Edict of Nantes|the Edict of Nantes
-granted the Huguenots substantial religious, political and military autonomy|granted the Huguenots substantial religious, political and military autonomy|granted the Huguenots substantial religious, political and military autonomy
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-derision|derision|derision
-Besançon Hugues|Besançon Hugues|Besançon Hugues
-Geneva|Geneva|Geneva
-Amboise plot|Amboise|the Amboise plot
-1560|1560|1560
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-availability of the Bible in vernacular languages|the Bible in vernacular languages|The availability of the Bible in vernacular languages
-Around 1294|1294|Around 1294
-Guyard de Moulin|Guyard de Moulin|Guyard de Moulin
-1487|1487|1487
-Paris|Paris|Paris
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-villes de sûreté|"villes de sûreté"|villes de sûreté
-Montpellier|Montpellier|Montpellier
-1622|1622|1622
-Edict of Alès|Edict of Alès|Edict of Alès
-1629|1629|1629
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-Following a referendum in 1997|1998|1998
-Scotland Act 1998|Scotland Act 1998|Scotland Act
-in which it can make laws|the areas in which it can make laws|powers that are "reserved" to the Parliament of the United Kingdom
-Parliament of the United Kingdom|Parliament of the United Kingdom|The British Parliament
-Westminster|Westminster|Westminster
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-lack of a Parliament of Scotland|the lack of a Parliament of Scotland|the lack of a Parliament of Scotland
-three hundred|three hundred years|three hundred years
-First World War.|First World War|the outbreak of the First World War
-the late 1960s|late 1960s|late 1960s
-directly elected Scottish Assembly|directly elected Scottish Assembly|a directly elected Scottish Assembly
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-North|North Sea|the North Sea
-"It's Scotland's oil"|It's Scotland's oil|"It's Scotland's oil"
-not benefitting Scotland as much as they should|not benefitting Scotland as much as they should|the revenues from the oil were not benefitting Scotland as much as they should
-1974|1974|1974
-1978|1978|1978
-No Answer
-No Answer
-No Answer
-No Answer
-Edinburgh|Edinburgh|Edinburgh
-majority|40%|at least 40%
-failed|failed|failed
-51.6%|51.6%|51.6%
-32.9%|32.9%|32.9%
-No Answer
-No Answer
-No Answer
-No Answer
-diversified|highly diversified|highly diversified
-second|second|second
-fourth|fourth|fourth
-Melbourne|Melbourne|Melbourne
-Melbourne Cricket Ground|The Melbourne Cricket Ground|Melbourne Cricket Ground
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-Bendigo|Bendigo|Bendigo
-New South Wales|New South Wales|New South Wales
-Buckland Valley|Buckland Valley near Bright|Buckland Valley
-over 1,000|1,000|1,000
-cramped and unsanitary|cramped and unsanitary|cramped and unsanitary
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-multi-member proportional|multi-member proportional|multi-member proportional representation system
-eight|eight|eight
-five|five|five
-four years|four years|four years
-every four years|every four years|four years
-No Answer
-No Answer
-No Answer
-No Answer
-Australian Labor Party|Australian Labor Party|Labor
-Liberal Party|Liberal Party of Australia|Liberals
-National Party|National Party of Australia|Nationals
-The Greens|Australian Greens|Greens
-Labor|Australian Labor Party|Labor
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 force|force|the concept of force|the concept of force|force|force
 fundamental error|A fundamental error|A fundamental error|A fundamental error|A fundamental error|A fundamental error
 Sir Isaac Newton|Sir Isaac Newton|Sir Isaac Newton|Sir Isaac Newton|Sir Isaac Newton|Sir Isaac Newton
 nearly three hundred years|nearly three hundred years|nearly three hundred years|nearly three hundred years|nearly three hundred years|three hundred years
 Einstein|Einstein|Einstein|Einstein|Einstein|Einstein
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Standard Model|Standard Model|Standard Model|Standard Model|a Standard Model|a Standard Model
 gauge bosons|gauge bosons|gauge bosons|gauge bosons|gauge bosons|gauge bosons
 strong|strong|strong,|strong|strong|strong, electromagnetic
 gravitational|gravitational|gravitational|gravitational|gravitational|gravitational
 electroweak interaction|a more fundamental electroweak interaction|more fundamental electroweak interaction.|a more fundamental electroweak interaction|fundamental electroweak interaction.
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
 Aristotle|Aristotle|Aristotle|Aristotle|Aristotle|Aristotle
 Aristotelian cosmology|Aristotelian cosmology|Aristotelian cosmology|Aristotelian cosmology|cosmology|Aristotelian cosmology
 four|four|four|four|four|four
 on the ground|ground|heavy bodies to fall|on the ground|on the ground|on the ground
 unnatural|unnatural|natural motion|unnatural|continued application of a force|unnatural
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
 17th century|17th century|17th century|the 17th century|17th century|17th century
 Galileo Galilei|Galileo Galilei|Galileo Galilei|Galileo Galilei,|Galileo Galilei|Galileo Galilei
 impetus|innate force of impetus|gravity|an innate force of impetus|innate force of impetus|innate force of impetus
 Galileo|Galileo|Galileo Galilei|Galileo|Galileo|Galileo
 friction|friction|gravity|friction|friction|force
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
 melt (magma and/or lava)|melt|rock crystallizes from melt (magma and/or lava)|melt (magma and/or lava)
 metamorphic rock|metamorphic|metamorphic rock|metamorphic
 new magma|igneous|new magma|magma
 igneous, sedimentary, and metamorphic|igneous, sedimentary, and metamorphic|igneous, sedimentary, and metamorphic|igneous, sedimentary, and metamorphic
 heat and pressure|heat and pressure|heat and pressure|heat and pressure
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 seafloor spreading|seafloor spreading|seafloor spreading|seafloor spreading
 the crust and rigid uppermost portion of the upper mantle|crust and rigid uppermost portion of the upper mantle|crust and rigid uppermost portion of the upper mantle|crust and rigid uppermost portion of the upper mantle
 asthenosphere|asthenosphere|asthenosphere|asthenosphere
 the convecting mantle|convection of the mantle|convection of the mantle|the convecting mantle
 the 1960s|1960s|1960s|1960s
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 divergent boundaries|divergent boundaries|divergent boundaries|divergent boundaries
 convergent boundaries|convergent boundaries|convergent boundaries|convergent boundaries
 Transform boundaries|Transform|Transform boundaries|Transform boundaries
 Alfred Wegener|Alfred Wegener|Alfred Wegener|Alfred Wegener
 the convecting mantle|convecting mantle|convecting|convecting
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 seismic waves|seismic|seismic|seismic
 crust|crust|lithosphere|crust and lithosphere
 the outer core and inner core|outer core and inner core|outer core and inner core|outer core and inner core
 the mantle|mantle|mantle|mantle
 wave speeds|wave speeds|wave speeds
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 John Harvard|John Harvard|John Harvard
 1977|1977|1977
 James Bryant Conant|James Bryant Conant|James Bryant Conant
 Association of American Universities|Association of American Universities|Association of American Universities
 Charles W. Eliot|Charles W. Eliot|Charles W. Eliot
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Harvard Library|Harvard Library|Harvard
 79 individual libraries|79|79
 18 million volumes|18 million|over 18 million
 eight U.S. presidents|eight|eight
 150 Nobel laureates|150|150
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Boston metropolitan area|Boston|Boston
 $37.6 billion|$37.6 billion|$37.6 billion
 Charles River|Charles|Charles
 eleven separate academic units|eleven|eleven
 Harvard Yard|Harvard Yard|Harvard Yard
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 1636|1636|1636
 Massachusetts Bay Colony|Great and General Court of the Massachusetts Bay Colony|Great and General Court of the Massachusetts Bay Colony
 1638|1638|1638
 1639|1639|1639
 1650|1650|1650
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 disease|disease|disease|disease
 pathogens|pathogens|pathogens|pathogens
 neuroimmune system|neuroimmune|neuroimmune|neuroimmune system
@@ -606,153 +373,153 @@ pathogens|pathogens|pathogens|pathogens
 humoral immunity versus cell-mediated immunity|humoral immunity versus cell-mediated immunity|humoral immunity versus cell-mediated immunity|humoral immunity versus cell-mediated immunity
 innate immune system versus the adaptive immune system|innate immune system versus the adaptive immune system|innate immune system versus the adaptive immune system|innate immune system versus the adaptive immune system
 neuroimmune system|neuroimmune|neuroimmune system|neuroimmune system
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Immunodeficiency|Immunodeficiency|Immunodeficiency occurs
 autoimmunity|autoimmunity|autoimmunity
 Immunology|Immunology|Immunology
 HIV/AIDS|HIV/AIDS|HIV/AIDS
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Robert Koch|Robert Koch|Robert Koch
 microorganisms|microorganisms|microorganisms
 yellow fever virus|yellow fever|yellow fever virus
 Athens in 430 BC|430 BC|430 BC.
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Innate immune systems|Innate|Innate immune systems
 adaptive immune system|adaptive|the adaptive immune system
 immunological memory|immunological memory|immunological memory
 physical barriers|physical barriers|physical barriers
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Latin|Latin|Latin|Latin|Latin
 military force|colonization, use of military force, or other means|colonization, use of military force, or other means|colonization, use of military force, or other|colonization
 Japan|Japan|Japanese|Japanese|Japan
 technologies and ideas|technologies and ideas|technologies and ideas|technologies and ideas|technologies and ideas.
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 influence|influence|influence|influence|influence
 "Formal imperialism"|formal|"Formal imperialism|Formal imperialism|Formal
 othering|othering|othering|othering|othering
 direct|direct|direct|direct|direct
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 "informal" imperialism|Informal rule|informal" imperialism|imperialism
 "formal"|formal|formal|formal|formal
 aggressiveness|aggressiveness|aggressiveness|aggressiveness|aggressiveness
 informal|Informal rule is generally less costly|Informal rule|formal|formal
 ownership of private industries|technological superiority|technological superiority|ownership of private industries|technological superiority,
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 distinction|distinction|distinction|distinction|distinction
 the world systems theory|world systems theory|world systems theory.|world systems theory
 Lenin|Lenin|Lenin
 empires|empires
 seaborne|land|sea and trade routes|sea
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Islamism|Islamism|Islamism
 all spheres of life.|all spheres of life|all spheres
 reordering|reordering of government and society in accordance with the Shari'a|reordering
 poles|two poles|poles
 revolution or invasion|revolution or invasion|revolution
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
 democratic|democratic process|democratic
 Palestine|Palestine|Palestine
 abolish the state of Israel|abolish the state of Israel|abolish the state of Israel
 democracy|democracy|democracy
 religious|religious|religious
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 major division|major division|division
 Sunni pan-Islamism|Sunni pan-Islamism|Sunni pan-Islamism
 sharia rather than the building of Islamic institutions,|sharia|sharia
 democracy|democracy|democracy
 to maintain their legitimacy|to maintain their legitimacy|to maintain their legitimacy
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 political|political|political
 Islam|Islam|Islam
 its supporters|Scholars and observers|Islamism
 illiberal Islamic regimes|illiberal Islamic regimes|illiberal Islamic regimes
 religion from politics|religion from politics|religion from politics
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Jacksonville|Jacksonville|Jacksonville
 1,345,596|1,345,596|1,345,596
 12th|12th|12th
 Duval|Duval County|Duval County
 1968|1968|1968
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 St. Johns|St. Johns River|St. Johns River
 340 miles|340 miles|340 miles
 Fort Caroline|Fort Caroline|Fort Caroline
 the Timucua|Timucua|the Timucua people
 Andrew Jackson|Andrew Jackson|Andrew Jackson
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
 third largest|third largest military presence|third largest
 golf|golf|golf
 two|two|two
 "Jacksonvillians" or "Jaxsons"|"Jacksonvillians"|"Jacksonvillians" or "Jaxsons"
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 thousands|thousands of years|thousands of years
 a University of North Florida team|University of North Florida|University of North Florida
 Timucua|Timucua people|Mocama
 the historical era|historical era|beginning of the historical era
 Ossachite|Ossachite|Ossachite
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 8|8|8|8|8
 helium|helium|helium|helium|helium
 Diatomic oxygen|Diatomic oxygen|Diatomic oxygen gas|Diatomic oxygen|Diatomic oxygen gas
@@ -763,10 +530,10 @@ chalcogen|chalcogen|chalcogen|chalcogen|the chalcogen group
 oxides|oxides|oxides|oxide compounds|oxide
 third|third-most|third|third-most|third
 dioxygen|diatomic gas|dioxygen|dioxygen|dioxygen
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
 photosynthesis|photosynthesis|photosynthesis|photosynthesis|photosynthesis
 sunlight|sunlight|sunlight|the energy of sunlight|sunlight
 high-altitude ozone layer|ozone|ozone layer|ozone
@@ -775,10 +542,10 @@ water|water|organic molecules|inorganic compounds|mass
 photosynthesis|living organisms|photosynthesis|photosynthesis|photosynthesis
 water|water|water|water|water
 ozone|ozone|ozone|ozone
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
 Robert Boyle|Robert Boyle|Boyle|Robert Boyle
 John Mayow|John Mayow|Mayow|John Mayow
 nitroaereus|nitroaereus|nitroaereus|nitroaereus
@@ -788,11 +555,11 @@ nitroaereus|spiritus nitroaereus|spiritus nitroaereus|spiritus nitroaereus or ju
 17th century|17th|17th|late 17th century
 respiration|respiration|respiration|respiration
 John Mayow|John Mayow|Mayow|John Mayow
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Joseph Priestley|Priestley|Joseph Priestley|Joseph Priestley|Priestley
 clergyman|clergyman|clergyman|clergyman|clergyman
 mercuric oxide (HgO)|mercuric oxide|mercuric oxide|mercuric oxide (HgO)|mercuric oxide
@@ -802,10 +569,10 @@ dephlogisticated air|dephlogisticated air|dephlogisticated air|dephlogisticated 
 1775|1775|1775|1775|1775
 published his findings first|he published his findings first|he published his findings first|he published his findings first|Because he published his findings first
 active|more active and lived longer|was more active and lived longer|more active and lived longer while breathing it|was more active and lived longer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
 Paul Baran developed the concept Distributed Adaptive Message Block Switching|the concept Distributed Adaptive Message Block Switching|Distributed Adaptive Message Block Switching
 provide a fault-tolerant, efficient routing method for telecommunication messages|provide a fault-tolerant, efficient routing method for telecommunication messages|fault-tolerant, efficient routing method
 This concept contrasted and contradicted the theretofore established principles of pre-allocation of network bandwidth|theretofore established principles of pre-allocation of network bandwidth|principles of pre-allocation of network bandwidth
@@ -813,26 +580,26 @@ Davies is credited with coining the modern name packet switching and inspiring n
 the concept Distributed Adaptive Message Block Switching|the concept Distributed Adaptive Message Block Switching|Distributed Adaptive Message Block Switching
 to provide a fault-tolerant, efficient routing method for telecommunication messages|provide a fault-tolerant, efficient routing method for telecommunication messages
 Davies is credited with coining the modern name packet switching and inspiring numerous packet switching networks in Europe|Donald Davies|Donald Davies
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 circuit switching|circuit switching|circuit switching
 circuit switching is characterized by a fee per unit of connection time|a method which pre-allocates dedicated network bandwidth specifically for each communication session|fee per unit of connection time
 by a fee per unit of information transmitted|a fee per unit of information transmitted|fee per unit of information transmitted
@@ -840,48 +607,48 @@ circuit switching|circuit switching|circuit switching
 a method which pre-allocates dedicated network bandwidth|pre-allocates dedicated network bandwidth specifically for each communication session|pre-allocates
 by a fee per unit of connection time, even when no data is transferred|a fee per unit of connection time|fee per unit of connection time
 by a fee per unit of information transmitted, such as characters, packets, or messages|a fee per unit of information transmitted|fee per unit of information transmitted
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 the packets may be delivered according to a multiple access scheme|according to a multiple access scheme|multiple access scheme
 with or without intermediate forwarding nodes|with or without intermediate forwarding nodes|with or without intermediate forwarding nodes
 by intermediate network nodes asynchronously using first-in, first-out buffering, but may be forwarded according to some scheduling discipline for fair queuing|intermediate network nodes asynchronously using first-in, first-out buffering|asynchronously
 the packets may be delivered according to a multiple access scheme|according to a multiple access scheme|multiple access scheme
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 the concept of distributed adaptive message block switching|the concept of distributed adaptive message block switching|concept of distributed adaptive message block switching
 survivable communications networks|the concept of distributed adaptive message block switching|survivable communications networks
 use of a decentralized network with multiple paths between any two points, dividing user messages into message blocks|ideas
@@ -890,285 +657,285 @@ distributed adaptive message block switching|distributed adaptive message block 
 a general architecture for a large-scale, distributed, survivable communications network|a general architecture for a large-scale, distributed, survivable communications network|briefing B-265
 use of a decentralized network with multiple paths between any two points, dividing user messages into message blocks, later called packets|large-scale, distributed, survivable communications network|multiple paths between any two points
 by store and forward switching|packets|store and forward switching
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 its root word pharma|pharma|pharma|pharma
 ingredients for medicines, sold tobacco and patent medicines|ingredients for medicines, sold tobacco and patent medicines|ingredients for medicines, sold tobacco and patent medicines|medicines
 sorcery or even poison|sorcery or even poison|sorcery|sorcery
 outdated or only approproriate if herbal remedies were on offer to a large extent|outdated|outdated|outdated
 many other herbs not listed|many other herbs|other herbs not listed|other herbs
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
 healthcare professionals|healthcare|healthcare professionals with specialised education
 optimal health outcomes|optimal|optimal health outcomes
 optimisation of a drug treatment for an individual|optimisation of a drug treatment|optimisation of a drug treatment for an individual
 small-business proprietors|small-business proprietors|small-business proprietors
 specialised education and training|specialised education and training|specialised education and training
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 other senior pharmacy technicians|senior pharmacy technicians|other senior pharmacy technicians
 the General Pharmaceutical Council (GPhC) register|General Pharmaceutical Council (GPhC)|General Pharmaceutical Council (GPhC) register
 regulates the practice of pharmacists and pharmacy technicians|governing body for pharmacy health care professionals|regulates the practice of pharmacists and pharmacy technicians
 health care professional|pharmacy health care|health care professional
 manage the pharmacy department and specialised areas in pharmacy practice|manage the pharmacy department and specialised areas|manage the pharmacy department
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
 Diocles of Carystus|Diocles of Carystus|Diocles of Carystus
 writing a five volume book in his native Greek|writing a five volume book|five volume book in his native Greek
 De Materia Medica|De Materia Medica|De Materia Medica
 materia medica|materia medica|materia medica
 many middle eastern scientists|middle eastern scientists|many middle eastern scientists
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 itself|itself|itself|itself|itself
 composite number|composite number|composite number|primes
 The fundamental theorem of arithmetic|fundamental theorem of arithmetic|arithmetic|fundamental theorem of arithmetic|fundamental theorem of arithmetic
 a product of primes|product of primes that is unique up to ordering|primes|primes|primes that is unique up to ordering
 because one can include arbitrarily many instances of 1 in any factorization|one can include arbitrarily many instances of 1 in any factorization|can include arbitrarily many instances of 1 in any factorization|one can include arbitrarily many instances of 1 in any factorization|because one can include arbitrarily many instances of 1 in any factorization
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 primality|primality|primality|primality|primality
 trial division|trial division|trial division|trial division|trial division
 the Miller–Rabin primality test|Miller–Rabin primality test|Miller–Rabin primality test|Miller–Rabin primality test|Miller–Rabin primality test
 the AKS primality test|AKS primality test|AKS primality test|AKS primality test|AKS primality test
 22,338,618 decimal digits|22,338,618|22,338,618|22,338,618|22,338,618
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 infinitely many|infinitely|infinitely many|infinitely|infinitely many
 Euclid|Euclid|Euclid|Euclid|Euclid
 the statistical behaviour|distribution|statistical|statistical|statistical
 the prime number theorem|prime number theorem|prime number|prime number theorem|prime number theorem
 at the end of the 19th century|end of the 19th century|end of the 19th century|end of the 19th century|end of the 19th century
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Goldbach's conjecture|Goldbach's conjecture|Goldbach's conjecture|Goldbach's conjecture|Goldbach's conjecture
 the twin prime conjecture|twin prime conjecture|twin prime conjecture|twin prime conjecture|twin prime conjecture
 algebraic aspects|algebraic|algebraic|algebraic|algebraic aspects
 public-key cryptography|public-key cryptography|public-key cryptography|cryptography|public-key cryptography
 prime ideals|prime elements|prime elements|prime elements
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 independent|independent schools|independent schools
 academic|academic|academic
 tuition|charging their students tuition|tuition
 to select their students|select their students|select their students
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 $45,000|more than $45,000|$45,000
 'tuition-free|tuition-free|tuition-free
 Australia|Australia|Australia
 North America|North America|North America
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 lower sixth|lower sixth|lower sixth
 upper sixth|upper sixth|upper sixth
 prep schools|prep schools|prep schools
 peer tuitions|peer tuitions|peer tuitions and the school's financial endowment
 teachers|teachers|best teachers
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
 Roman Catholic|Roman Catholic
 Orthodox Christians|Roman Catholic|Orthodox Christians
 religious|religious|the usual academic subjects
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
 SoCal|SoCal|SoCal
 10 counties|10|10
 economic center|major economic center|economic center
 demographics and economic ties|economic|demographics and economic
 historical political divisions|historical political divisions|historical political divisions
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
 Southern California Megaregion|the greater Southern California Megaregion|Southern California Megaregion
 11|11|11
 Nevada|Nevada|Nevada
 Mexican|Mexican|Mexican
 Tijuana|Tijuana|Tijuana
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
 Pacific|Pacific|Pacific
 seven|seven|seven
 12 million|over 12 million inhabitants|12 million
 San Diego|the San Diego area|San Diego
 17.5 million|over 17.5 million|17.5 million
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
 Colorado River|the Colorado River|Colorado River
 Colorado Desert|the Colorado Desert|Colorado Desert
 Mojave Desert|the Mojave Desert|Mojave Desert
 Mexico–United States border|the Mexico–United States border|Mexico–United States border
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
 solar|solar power|solar power, nuclear power or geothermal energy|solar
 Rankine|Rankine cycle|Rankine cycle|Rankine cycle
 steam|steam|steam|steam
 high|high|high pressure|high
 external combustion|external combustion|external combustion engines|external combustion
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 atmospheric engine|atmospheric engine|atmospheric engine|the atmospheric engine
 Thomas Newcomen|Thomas Newcomen|Thomas Newcomen|Thomas Newcomen
 1712|around 1712|1712|1712
 steam pump|steam pump|steam pump|steam pump
 Papin|Papin|Papin|Papin
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 United Kingdom|United Kingdom|United Kingdom
 21 February 1804|21 February 1804|21 February 1804
 Abercynon|Abercynon in south Wales|Abercynon
 Wales|south Wales|Wales
 south|south|south
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 water pump|water pump|water pump
 multi-stage centrifugal|multi-stage centrifugal|multi-stage centrifugal pumps
 1850s|1850s|1850s
 steam locomotives|steam locomotives|steam locomotives
 lower-pressure boiler feed water|water|lower-pressure boiler feed water
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Warsaw|Warsaw|Warsaw
 Vistula|Vistula River|Vistula
 roughly 260 kilometres|260 kilometres|260 kilometres
 2.666 million|2.666 million|2.666 million
 9th|9th|9th
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Economist Intelligence Unit|Economist Intelligence Unit|Economist Intelligence Unit
 2012|2012|2012
 wide variety of industries|FMCG manufacturing, metal processing, steel and electronic manufacturing and food processing|FMCG manufacturing
 Stock|Warsaw Stock Exchange|Warsaw Stock Exchange
 Frontex|Frontex|Frontex
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 1313|1313|1313
 Kraków|Kraków|Kraków
 1596|1596|1596
 King Sigismund III Vasa|King Sigismund III Vasa|King Sigismund III Vasa
 survived many wars, conflicts and invasions|it has survived many wars, conflicts and invasions|because it has survived many wars, conflicts and invasions throughout its long history
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Roman Catholic|Roman Catholic|Roman Catholic
 Polish Academy of Sciences|Polish Academy of Sciences|Polish Academy of Sciences
 a UNESCO World Heritage Site|UNESCO World Heritage Site|UNESCO World Heritage Site
 architectural|architectural|architectural
 luxurious parks and royal gardens|luxurious parks and royal gardens|luxurious parks and royal gardens
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Yuán Cháo|Yuán Cháo|元朝
 the Great Yuan|the Great Yuan|the Great Yuan
 Kublai Khan|Kublai Khan|Kublai Khan
 Kublai Khan|Kublai Khan|Kublai Khan
 1271|1271|1271
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Mongol Empire|Mongol Empire|Mongol Empire
 Song dynasty|Mongol Empire|the Song dynasty
 Ming dynasty|Ming dynasty|the Ming dynasty
 Genghis Khan|Genghis Khan|Genghis Khan
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
 1271|1271|1271
 the Commentaries on the Classic of Changes (I Ching)|the Commentaries on the Classic of Changes
 Dai Ön Ulus, also rendered as Ikh Yuan Üls or Yekhe Yuan Ulus|Dai Ön Ulus|Dai Ön Ulus
 Great Mongol State|Great Mongol State|Great Mongol State
 Great Khan|Great Khan|Great Khan
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers
 Mongol and Turkic tribes|Mongol and Turkic tribes|the Mongol and Turkic tribes
 1206|1206|1206
 Ögedei Khan|Ögedei Khan|Ögedei Khan
 1251|1251|1251
 nephew|nephew|nephew
-No Answer
-No Answer
-No Answer
-No Answer
-No Answer
+No Answers
+No Answers
+No Answers
+No Answers
+No Answers

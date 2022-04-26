@@ -8,7 +8,7 @@ def checkline():
     with open('Answers.txt', "r", encoding = "utf-8") as f1:
         for line in f1:
             answers_list.append(line)
-    with open('Sample_Model_Output.txt', "r", encoding = "utf-8") as f2:
+    with open('model_answers_baseline2.txt', "r", encoding = "utf-8") as f2:
         for line in f2:
             sample_output_list.append(line)
     count = 0
