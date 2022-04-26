@@ -64,8 +64,8 @@ for file_name in tqdm(corpus_file_names):
 #question = 'What is it called when people in society rebel against laws they think are unfair?'
 #question = 'How many US presidents are alumni of the school?'
 #question = 'Where can tourists go when they visit Cambridge?'
-with open('model_answers.txt', 'w+') as output_file:
-    with open('../debug/Questions.txt', 'r') as questions_file:
+with open('model_answers_updated.txt', 'w+') as output_file:
+    with open('../evaluation/Questions.txt', 'r') as questions_file:
         questions = questions_file.readlines()
         for i in tqdm(range(len(questions))):
             question = questions[i][:-1]
