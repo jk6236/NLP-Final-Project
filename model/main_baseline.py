@@ -125,6 +125,7 @@ with open('model_answers_baseline.txt', 'w+') as output_file:
                         res = transformer.query(QA_input)
                         if res['score'] > best_answer_val and res['score'] > 0.3:
                             best_answer = res['answer']
+                            best_answer_val = res['score']
             output_file.write(best_answer+'\n')
 
         
