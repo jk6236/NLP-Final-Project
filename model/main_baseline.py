@@ -68,7 +68,7 @@ for file_name in tqdm(corpus_file_names):
 
 print(len(corpus_file_names))
 
-with open('model_answers_baseline_updated_2.txt', 'w+') as output_file:
+with open('model_answers_baseline_updated_3.txt', 'w+') as output_file:
     with open('../evaluation/Questions.txt', 'r') as questions_file:
         questions = questions_file.readlines()
         for i in tqdm(range(len(questions))):
@@ -124,7 +124,7 @@ with open('model_answers_baseline_updated_2.txt', 'w+') as output_file:
                             'question': question,
                             'context': subsection}
                         res = transformer.query(QA_input)
-                        if res['score'] > best_answer_val and res['score'] > 0.5:
+                        if res['score'] > best_answer_val and res['score'] > 0.75:
                             best_answer = res['answer']
             output_file.write(best_answer+'\n')
 
