@@ -6,4 +6,5 @@
 - Cosine and TFIDF (Done)
 - Combine TFIDF/Cosine with BERT (Done)
 - Corpus, both test and dev set (Done)
-- Evaluation 
+- Evaluation (Done)
+- Baseline
