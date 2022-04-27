@@ -64,7 +64,7 @@ for file_name in tqdm(corpus_file_names):
 #question = 'What is it called when people in society rebel against laws they think are unfair?'
 #question = 'How many US presidents are alumni of the school?'
 #question = 'Where can tourists go when they visit Cambridge?'
-with open('model_answers_updated.txt', 'w+') as output_file:
+with open('model_answers_updated_2.txt', 'w+') as output_file:
     with open('../evaluation/Questions.txt', 'r') as questions_file:
         questions = questions_file.readlines()
         for i in tqdm(range(len(questions))):
@@ -120,7 +120,7 @@ with open('model_answers_updated.txt', 'w+') as output_file:
                             'question': question,
                             'context': subsection}
                         res = transformer.query(QA_input)
-                        if res['score'] > best_answer_val and res['score'] > 0.3:
+                        if res['score'] > best_answer_val and res['score'] > 0.5:
                             best_answer = res['answer']
                             best_answer_val = res['score']
             output_file.write(best_answer+'\n')
