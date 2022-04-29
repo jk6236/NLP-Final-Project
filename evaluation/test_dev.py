@@ -5,10 +5,10 @@ import os
 def checkline():
     answers_list = []
     sample_output_list = []
-    with open('Answers.txt', "r", encoding = "utf-8") as f1:
+    with open('Answers_dev.txt', "r", encoding = "utf-8") as f1:
         for line in f1:
             answers_list.append(line.strip('\n').split('|'))
-    with open('../model/model_final_1_50.txt', "r", encoding = "utf-8") as f2:
+    with open('../model/model_param_3_75.txt', "r", encoding = "utf-8") as f2:
         for line in f2:
             sample_output_list.append(line.strip('\n'))
     count = 0
@@ -16,7 +16,6 @@ def checkline():
    
     #print(answers_list[:5])
     #print(sample_output_list[:5])
-
     print ("There are ", len(answers_list), "line in answer key, and ", len(sample_output_list), "line in model output")
     
     for x in answers_list:
@@ -35,3 +34,4 @@ def checkline():
     print("Accuracy: ", accuracy)
 
 checkline()
+

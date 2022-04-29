@@ -64,7 +64,10 @@ for file_name in tqdm(corpus_file_names):
 #question = 'What is it called when people in society rebel against laws they think are unfair?'
 #question = 'How many US presidents are alumni of the school?'
 #question = 'Where can tourists go when they visit Cambridge?'
-with open('model_answers_updated_3.txt', 'w+') as output_file:
+
+k = 2
+
+with open('model_final_2_50.txt', 'w+') as output_file:
     with open('../evaluation/Questions.txt', 'r') as questions_file:
         questions = questions_file.readlines()
         for i in tqdm(range(len(questions))):
@@ -75,6 +78,9 @@ with open('model_answers_updated_3.txt', 'w+') as output_file:
             best_score = float('-inf')
             best_file = ''
             second_best_file = ''
+            second_best_score = float('-inf')
+            
+            best_documents = []
 
             for file_name in corpus_file_names:
                 mag_q = 0
@@ -97,16 +103,26 @@ with open('model_answers_updated_3.txt', 'w+') as output_file:
                     cosine = float('-inf')
                 else:
                     cosine = float(numerator) / (math.sqrt(float(mag_q)) * math.sqrt(float(mag_doc)))
+                '''
                 if cosine >= best_score:
                     if best_file != '':
                         second_best_file = best_file
                     best_file = file_name
                     best_score = cosine 
+                '''
 
-            best_files = [best_file, second_best_file]
+                best_documents.append((cosine, file_name))
+            best_documents.sort(key=lambda x: x[0])
+            best_documents.reverse()
+            
+            top_k_docs = best_documents[:k]
+
+
+            #best_files = [best_file, second_best_file]
+            #best_files = [best_file]
             best_answer = 'No Answer'
             best_answer_val = 0
-            for best_file_name in best_files:
+            for c, best_file_name in top_k_docs:
                 if best_file_name == '':
                     continue
                 with open(best_file_name, 'r') as file:
@@ -120,7 +136,7 @@ with open('model_answers_updated_3.txt', 'w+') as output_file:
                             'question': question,
                             'context': subsection}
                         res = transformer.query(QA_input)
-                        if res['score'] > best_answer_val and res['score'] > 0.75:
+                        if res['score'] > best_answer_val and res['score'] > 0.5:
                             best_answer = res['answer']
                             best_answer_val = res['score']
             output_file.write(best_answer+'\n')
