@@ -1,10 +1,4 @@
 # NLP-Final-Project
 
-## To do for Week 4
-
-- BERT model (Done)
-- Cosine and TFIDF (Done)
-- Combine TFIDF/Cosine with BERT (Done)
-- Corpus, both test and dev set (Done)
-- Evaluation (Done)
-- Baseline
+Our model is in models/main_test.py or main_dev.py depending on if the input is the dev or test set. Result files are also in the model folder. 
+Evaluation contains the evaluation script as well as the questions and answers file for both the dev and test set. 
