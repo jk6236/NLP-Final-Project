@@ -65,9 +65,9 @@ for file_name in tqdm(corpus_file_names):
 #question = 'How many US presidents are alumni of the school?'
 #question = 'Where can tourists go when they visit Cambridge?'
 
-k = 2
+k = 10
 
-with open('model_final_2_50.txt', 'w+') as output_file:
+with open('model_timing_test_2.txt', 'w+') as output_file:
     with open('../evaluation/Questions.txt', 'r') as questions_file:
         questions = questions_file.readlines()
         for i in tqdm(range(len(questions))):

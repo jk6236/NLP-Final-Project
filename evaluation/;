@@ -45,7 +45,7 @@ def checkline():
                 T_T += 1
 
         if result == False:
-            if sample_output_list[count] == 'No Answer':
+            if sample_outout_list[count] == 'No Answer':
                 model_no_answer += 1
 
 
